@@ -1,6 +1,6 @@
 ---
 id: 258
-title: 'Don&#8217;t Be Bill Murray'
+title: Don't Be Bill Murray
 date: 2013-12-24T14:32:13-08:00
 author: Louis Potok
 layout: post

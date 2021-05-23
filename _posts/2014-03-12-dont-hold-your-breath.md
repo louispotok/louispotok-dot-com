@@ -1,6 +1,6 @@
 ---
 id: 275
-title: 'Don&#8217;t Hold Your Breath'
+title: Don't Hold Your Breath
 date: 2014-03-12T12:52:29-07:00
 author: Louis Potok
 layout: post

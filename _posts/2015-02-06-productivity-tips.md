@@ -1,6 +1,6 @@
 ---
 id: 353
-title: 'Want to be more productive? Here&#8217;s 5 easy tips'
+title: Want to be more productive? Here's 5 easy tips
 date: 2015-02-06T11:15:30-08:00
 author: Louis Potok
 layout: post

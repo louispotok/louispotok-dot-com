@@ -1,6 +1,6 @@
 ---
 id: 535
-title: 'What I&#8217;ve been reading lately'
+title: What I've been reading lately
 date: 2017-09-05T10:31:28-07:00
 author: Louis Potok
 layout: post

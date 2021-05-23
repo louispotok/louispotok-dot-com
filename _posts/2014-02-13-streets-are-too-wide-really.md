@@ -1,6 +1,6 @@
 ---
 id: 270
-title: 'Streets Are Too Wide&#8230;Really'
+title: Streets Are Too Wide…Really
 date: 2014-02-13T12:14:34-08:00
 author: Louis Potok
 layout: post

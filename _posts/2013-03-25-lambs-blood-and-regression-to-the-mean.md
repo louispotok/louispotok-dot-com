@@ -1,6 +1,6 @@
 ---
 id: 75
-title: 'Lamb&#8217;s Blood and Regression to the Mean'
+title: Lamb's Blood and Regression to the Mean
 date: 2013-03-25T18:25:56-07:00
 author: Louis Potok
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 361
-title: 'I wish I had read this at last night&#8217;s open mic'
+title: I wish I had read this at last night's open mic
 date: 2015-02-06T09:12:55-08:00
 author: Louis Potok
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 299
-title: 'But It&#8217;s Also a Sex Manual'
+title: But It's Also a Sex Manual
 date: 2014-03-31T15:14:10-07:00
 author: Louis Potok
 layout: post

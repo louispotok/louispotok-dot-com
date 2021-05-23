@@ -1,6 +1,6 @@
 ---
 id: 280
-title: 'SF&#8217;s Finest'
+title: SF's Finest
 date: 2014-03-13T13:46:13-07:00
 author: Louis Potok
 layout: post

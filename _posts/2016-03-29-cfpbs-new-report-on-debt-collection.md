@@ -1,6 +1,6 @@
 ---
 id: 433
-title: 'CFPB&#8217;s New Report on Debt Collection'
+title: CFPB's New Report on Debt Collection
 date: 2016-03-29T14:42:45-07:00
 author: Louis Potok
 layout: post
