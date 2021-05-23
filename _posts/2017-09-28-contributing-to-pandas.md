@@ -1,13 +1,14 @@
 ---
 id: 538
 title: Contributing to pandas
-date: 2017-09-28T22:05:08-07:00
+date: 2017-09-28 22:05:08.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=538
-permalink: /contributing-to-pandas/
+permalink: "/contributing-to-pandas/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Very proud to announce today that I had a [pull request](https://github.com/pandas-dev/pandas/commit/42adf7da3f42a5ab02ea53fcced36a3ed85a6037) merged into the [pandas library](https://pandas.pydata.org/pandas-docs/stable/). In version 0.21, pandas will have a new feature: a way to read in line-delimited JSON in small pieces, which can be useful when working with large files or streams.
 

@@ -1,13 +1,14 @@
 ---
 id: 355
 title: Uber Gets Insightful
-date: 2015-01-13T10:53:54-08:00
+date: 2015-01-13 10:53:54.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=355
-permalink: /uber-gets-insightful/
+permalink: "/uber-gets-insightful/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 <a href="http://blog.uber.com/city-data" target="_blank">Uber is sharing anonymized data with Boston policymakers. </a>
 

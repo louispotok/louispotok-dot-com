@@ -1,13 +1,14 @@
 ---
 id: 238
 title: A Little Navel-Gazing
-date: 2013-11-11T10:23:47-08:00
+date: 2013-11-11 10:23:47.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=238
-permalink: /a-little-navel-gazing/
+permalink: "/a-little-navel-gazing/"
 categories:
-  - History
+- History
+wp_migrate: dirty
 ---
 Just a brief trip five years down memory lane to revisit [one of the better sentences](http://chicagomaroon.com/2008/04/22/editorial-undergraduate-liaison-to-the-board-of-trustees-endorsement/) written about me to date:
 

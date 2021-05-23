@@ -1,14 +1,15 @@
 ---
 id: 299
 title: But It's Also a Sex Manual
-date: 2014-03-31T15:14:10-07:00
+date: 2014-03-31 15:14:10.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=299
-permalink: /but-its-also-a-sex-manual/
+permalink: "/but-its-also-a-sex-manual/"
 categories:
-  - History
-  - Literature
+- History
+- Literature
+wp_migrate: dirty
 ---
 I was flipping through the [Kama Sutra](http://www.amazon.com/gp/product/0600623211/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0600623211&linkCode=as2&tag=capilactio-20) yesterday and turns out to be much more than a sex manual! It&#8217;s a guide to etiquette and custom in many areas of life and offers really interesting glimpses into a culture very different from ours. Though some of it is practically timeless, for example:
 

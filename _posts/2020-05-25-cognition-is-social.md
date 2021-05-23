@@ -1,14 +1,16 @@
 ---
 id: 626
 title: Cognition Is Social
-date: 2020-05-25T06:37:08-07:00
+date: 2020-05-25 06:37:08.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=626
-permalink: /cognition-is-social/
+permalink: "/cognition-is-social/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
+
 Oddly enough, this stylized fact bears fruit on several different levels.
 
 ## E pluribus unum

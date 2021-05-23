@@ -1,13 +1,14 @@
 ---
 id: 576
 title: Pluribus Skepticism
-date: 2019-07-18T10:29:22-07:00
+date: 2019-07-18 10:29:22.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=576
-permalink: /pluribus-skepticism/
+permalink: "/pluribus-skepticism/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Is Facebook’s new poker AI really the best in the world?
 

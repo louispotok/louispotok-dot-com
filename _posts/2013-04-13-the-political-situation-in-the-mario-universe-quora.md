@@ -1,13 +1,14 @@
 ---
 id: 118
 title: The Political Situation in the Mario Universe (Quora)
-date: 2013-04-13T15:59:33-07:00
+date: 2013-04-13 15:59:33.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=118
-permalink: /the-political-situation-in-the-mario-universe-quora/
+permalink: "/the-political-situation-in-the-mario-universe-quora/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Everyone loves Quora and [here](http://www.quora.com/Mario-series/What-is-the-political-situation-in-the-Mario-universe) is one reason why:
 

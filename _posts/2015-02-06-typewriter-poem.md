@@ -1,14 +1,15 @@
 ---
 id: 361
 title: I wish I had read this at last night's open mic
-date: 2015-02-06T09:12:55-08:00
+date: 2015-02-06 09:12:55.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=361
-permalink: /typewriter-poem/
+permalink: "/typewriter-poem/"
 categories:
-  - Film
-  - Literature
+- Film
+- Literature
+wp_migrate: dirty
 ---
 This is a poem I wrote months ago on a scrap of brown paper grocery bag, on the hood of a stranger&#8217;s car parked on Paris Street in San Francisco:
 

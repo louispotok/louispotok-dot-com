@@ -1,13 +1,14 @@
 ---
 id: 442
 title: Whiteness
-date: 2016-08-25T10:24:04-07:00
+date: 2016-08-25 10:24:04.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=442
-permalink: /whiteness/
+permalink: "/whiteness/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 (Yes indeed, today we&#8217;re talking **race.**)
 

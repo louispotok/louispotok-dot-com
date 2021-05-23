@@ -1,13 +1,14 @@
 ---
 id: 622
 title: Fear of Criticism
-date: 2020-04-29T11:20:00-07:00
+date: 2020-04-29 11:20:00.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=622
-permalink: /fear-of-criticism/
+permalink: "/fear-of-criticism/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 When I was younger I hated to read any comments that teachers made on my work. It was manageable for math and science, where there was usually a right answer, but for any kind of free-form writing it was absolutely terrifying. When I got an essay back I would quickly look at the grade. If it was good enough, I would skim the written notes, scanning for praise, and trying to ignore as much as possible any ideas for improvements or notes on weaknesses. If it was bad, I would shove it into my backpack and never look at it again.
 

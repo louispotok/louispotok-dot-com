@@ -1,13 +1,14 @@
 ---
 id: 99
 title: Economic Indifference and True Grit
-date: 2013-04-13T16:16:42-07:00
+date: 2013-04-13 16:16:42.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=99
-permalink: /economic-indifference-and-true-grit/
+permalink: "/economic-indifference-and-true-grit/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Early on in the film [True Grit](http://en.wikipedia.org/wiki/True_Grit_(2010_film)), fourteen-year-old Mattie Ross is trying to sell back some horses that her father bought right before his death. I recommend you watch the [whole negotiation](http://www.youtube.com/watch?v=714Xl-G5qaI)&#8211;it&#8217;s incredibly funny&#8211;but there was one line that stuck with me.
 

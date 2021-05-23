@@ -1,13 +1,14 @@
 ---
 id: 582
 title: Decentralization
-date: 2019-08-30T09:13:46-07:00
+date: 2019-08-30 09:13:46.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=582
-permalink: /decentralization/
+permalink: "/decentralization/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 A very thoughtful recent [blog post](https://hackernoon.com/decentralizing-everything-never-seems-to-work-2bb0461bd168) makes the point that institutions that seem &#8220;decentralized&#8221; or claim that as a value often exhibit centralizing tendencies over time. Some recommendations:
 

@@ -1,13 +1,14 @@
 ---
 id: 37
 title: What Are Other People Like?
-date: 2013-03-06T13:30:58-08:00
+date: 2013-03-06 13:30:58.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=37
-permalink: /what-are-other-people-like/
+permalink: "/what-are-other-people-like/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 How do we know about the internal lives of other people?
 

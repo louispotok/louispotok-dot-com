@@ -1,13 +1,14 @@
 ---
 id: 535
 title: What I've been reading lately
-date: 2017-09-05T10:31:28-07:00
+date: 2017-09-05 10:31:28.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=535
-permalink: /what-ive-been-reading-lately/
+permalink: "/what-ive-been-reading-lately/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 **Rebecca Solnit, [River of Shadows](http://amzn.to/2vIt3ks). **Solnit is a marvelous thinker and historian who moves smoothly between well-researched historical fact and philosophical reverie. Here she traces the life of Edward Muybridge whose motion studies of animals are still familiar today. Muybridge was a first-class photographer, a true artist who also made many technical innovations. Solnit takes his collaboration with Leland Stanford as the jumping-off point for an exploration of the way technology has annihilated time and space, and develops a genealogy from those two to the California of today, dominated by Hollywood and Silicon Valley. In her telling, these two industries named for physical places are at the center of a world that, in large part because of their doing, is increasingly disconnected from the world itself.
 

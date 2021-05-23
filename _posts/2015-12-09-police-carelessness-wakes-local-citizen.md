@@ -1,15 +1,16 @@
 ---
 id: 400
 title: Police Carelessness Wakes Local Citizen
-date: 2015-12-09T09:28:50-08:00
+date: 2015-12-09 09:28:50.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=400
-permalink: /police-carelessness-wakes-local-citizen/
+permalink: "/police-carelessness-wakes-local-citizen/"
 categories:
-  - Economics
-  - Politics
-  - Uncategorized
+- Economics
+- Politics
+- Uncategorized
+wp_migrate: dirty
 ---
 Tuesday morning I was woken up at 5AM by a police siren. As I lay awake, I started thinking. I couldn&#8217;t be the only one woken up. Should police cars use their sirens at night? It seems like a classic example of diffuse costs and easy-to-see benefits. But is it worth it? Let&#8217;s make a quick back-of-the-envelope calculation.
 

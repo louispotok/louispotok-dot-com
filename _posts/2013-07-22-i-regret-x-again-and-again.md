@@ -1,13 +1,14 @@
 ---
 id: 167
 title: I Regret X Again and Again
-date: 2013-07-22T10:50:54-07:00
+date: 2013-07-22 10:50:54.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=167
-permalink: /i-regret-x-again-and-again/
+permalink: "/i-regret-x-again-and-again/"
 categories:
-  - Psychology
+- Psychology
+wp_migrate: dirty
 ---
 &#8220;I never want to do X again. I&#8217;ve decided it before, but this time is different. This time I really mean it, I feel it so strongly, I&#8217;m definitely never doing X again.&#8221;
 

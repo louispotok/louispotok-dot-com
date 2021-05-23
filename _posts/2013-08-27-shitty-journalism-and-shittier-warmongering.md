@@ -1,13 +1,14 @@
 ---
 id: 182
 title: Shitty Journalism and Shittier Warmongering
-date: 2013-08-27T08:21:53-07:00
+date: 2013-08-27 08:21:53.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=182
-permalink: /shitty-journalism-and-shittier-warmongering/
+permalink: "/shitty-journalism-and-shittier-warmongering/"
 categories:
-  - Politics
+- Politics
+wp_migrate: dirty
 ---
 It&#8217;s rare that I find a news article equal parts infuriating and confusing. I want to deeply examine [this article](http://www.nytimes.com/2013/08/27/world/middleeast/syria-assad.html?hp&_r=0&pagewanted=all) from today&#8217;s New York Times. Ideally, I wish I could sit down with the author of the piece, the key players quoted, the key players not quoted, eminent historians, etc, and really dig into it. But you, loyal readers, will have to suffice.
 

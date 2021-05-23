@@ -1,13 +1,14 @@
 ---
 id: 328
 title: The Genius of Peanuts
-date: 2014-09-12T11:10:27-07:00
+date: 2014-09-12 11:10:27.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=328
-permalink: /the-genius-of-peanuts/
+permalink: "/the-genius-of-peanuts/"
 categories:
-  - Literature
+- Literature
+wp_migrate: dirty
 ---
 In the NYRB of 1985, [Umberto Eco explores Peanuts](http://www.nybooks.com/articles/archives/1985/jun/13/on-krazy-kat-and-peanuts/) (and Krazy Kat, which I&#8217;ve never read).
 

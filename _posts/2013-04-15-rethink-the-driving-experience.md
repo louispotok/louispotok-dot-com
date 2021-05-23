@@ -1,15 +1,16 @@
 ---
 id: 122
 title: Rethink the Driving Experience
-date: 2013-04-15T12:05:57-07:00
+date: 2013-04-15 12:05:57.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=122
-permalink: /rethink-the-driving-experience/
+permalink: "/rethink-the-driving-experience/"
 categories:
-  - Design
-  - Economics
-  - Uncategorized
+- Design
+- Economics
+- Uncategorized
+wp_migrate: dirty
 ---
 No, this post is not an advertisement for a new car only slightly different than last year&#8217;s edition. It&#8217;s a suggestion for a new design feature on cars that would help you drive more efficiently and save money on gas, while improving your health.
 

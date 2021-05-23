@@ -1,13 +1,14 @@
 ---
 id: 433
 title: CFPB's New Report on Debt Collection
-date: 2016-03-29T14:42:45-07:00
+date: 2016-03-29 14:42:45.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=433
-permalink: /cfpbs-new-report-on-debt-collection/
+permalink: "/cfpbs-new-report-on-debt-collection/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 I wrote a twitter thread about the CFPB's [2016 Annual Report on the Fair Debt Collection Practices Act](https://files.consumerfinance.gov/f/201603_cfpb-fair-debt-collection-practices-act.pdf). Click through to see the whole thread.
 

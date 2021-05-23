@@ -1,14 +1,15 @@
 ---
 id: 213
 title: 5 Easy Steps To Becoming Louis Potok
-date: 2013-10-30T11:59:35-07:00
+date: 2013-10-30 11:59:35.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=213
-permalink: /5-easy-steps-to-becoming-louis/
+permalink: "/5-easy-steps-to-becoming-louis/"
 categories:
-  - Economics
-  - Psychology
+- Economics
+- Psychology
+wp_migrate: dirty
 ---
 Boy, behavioral economics is everywhere these days! As a self-proclaimed &#8220;<a href="http://www.ideas42.org/" target="_blank">behavioral expert</a>&#8221; I often get people asking me for a reading list. I&#8217;m sick and tired of rewriting this five times a day, so here goes: the definitive, well-ordered, short ([looking at you, Shane Parrish)](http://www.businessinsider.com/the-worlds-best-behavioral-economics-reading-list-2011-6) behavioral economics reading list.
 

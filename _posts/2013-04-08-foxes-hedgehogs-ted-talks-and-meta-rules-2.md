@@ -1,13 +1,14 @@
 ---
 id: 111
 title: Foxes, Hedgehogs, TED Talks, and Meta-Rules
-date: 2013-04-08T16:49:16-07:00
+date: 2013-04-08 16:49:16.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=111
-permalink: /foxes-hedgehogs-ted-talks-and-meta-rules-2/
+permalink: "/foxes-hedgehogs-ted-talks-and-meta-rules-2/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 A few years ago I read a [short book on bridges](http://www.amazon.com/gp/product/0486429954/ref=oh_details_o07_s01_i00?ie=UTF8&psc=1). I gained a very basic understanding of the history of bridges, different types that exist today, aesthetic and utilitarian principles of bridge-building; then, I annoyed the hell out of my friends for a few months by pointing out details about bridges in the field of view. I no longer do this. Broadly speaking I think I am a [_Fox, _rather than a](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox) _[Hedgehog](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)_ [1](#footnote_0_111 "The citation is to an essay by Isaiah Berlin, but I learned about the distinction in the work of Philip Tetlock"){#identifier_0_111.footnote-link.footnote-identifier-link} :
 

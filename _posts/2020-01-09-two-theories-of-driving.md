@@ -1,14 +1,15 @@
 ---
 id: 606
 title: Two theories of driving
-date: 2020-01-09T23:22:28-08:00
+date: 2020-01-09 23:22:28.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=606
-permalink: /two-theories-of-driving/
+permalink: "/two-theories-of-driving/"
 categories:
-  - Cognitive Toolkit
-  - Urbanism
+- Cognitive Toolkit
+- Urbanism
+wp_migrate: dirty
 ---
 Two thoughts from wandering around Phnom Penh by foot, moto and tuktuk.
 

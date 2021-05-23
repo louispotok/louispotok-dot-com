@@ -1,13 +1,14 @@
 ---
 id: 27
 title: Data-Driven Decision Making
-date: 2013-03-04T01:23:09-08:00
+date: 2013-03-04 01:23:09.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=27
-permalink: /data-driven-decision-making/
+permalink: "/data-driven-decision-making/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 I spent the weekend at a conference about the use of statistical analysis in sports decision-making. Among other things, we talked about player evaluation, the role of randomness, in-game coaching decisions, and optimal risk taking based on game situation. All of these through the lens of using data to improve how we act.
 

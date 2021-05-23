@@ -1,16 +1,17 @@
 ---
 id: 569
 title: Surveillance Valley
-date: 2019-01-10T09:16:31-08:00
+date: 2019-01-10 09:16:31.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=569
-permalink: /surveillance-valley/
+permalink: "/surveillance-valley/"
 categories:
-  - History
-  - Politics
+- History
+- Politics
 tags:
-  - books
+- books
+wp_migrate: dirty
 ---
 Just read Yasha Levine&#8217;s [Surveillance Valley](https://amzn.to/2RHBpTB). There was a lot more new information than I was expecting but also a lot of &#8220;guilt by association&#8221; arguments and some interpretations I found a bit sketchy. Curious if anyone else has read it and what they thought. The book has two main sections.
 

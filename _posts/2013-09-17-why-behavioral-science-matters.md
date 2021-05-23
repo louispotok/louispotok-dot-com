@@ -1,16 +1,17 @@
 ---
 id: 181
 title: Why (Behavioral) Science Matters
-date: 2013-09-17T18:29:53-07:00
+date: 2013-09-17 18:29:53.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=181
-permalink: /why-behavioral-science-matters/
+permalink: "/why-behavioral-science-matters/"
 categories:
-  - Economics
-  - Experiments
-  - Politics
-  - Urbanism
+- Economics
+- Experiments
+- Politics
+- Urbanism
+wp_migrate: dirty
 ---
 Almost a month ago Bill de Blasio, Democratic nominee for NYC mayor, [tweeted something](https://twitter.com/deBlasioNYC/status/371689879811670018) that made me angry. If I were to donate to his primary campaign, he (or a 19 year old unpaid intern) proclaimed, my contribution would be matched 6 to 1. So now we know that de Blasio &#8212; [unlike Barack Obama](http://www.nytimes.com/2012/11/13/health/dream-team-of-behavioral-scientists-advised-obama-campaign.html?pagewanted=all) &#8212; is not running his campaign according to the latest research findings.
 

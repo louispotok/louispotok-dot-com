@@ -1,13 +1,14 @@
 ---
 id: 595
 title: Two Theories of Japanese Culture
-date: 2019-11-21T04:17:53-08:00
+date: 2019-11-21 04:17:53.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=595
-permalink: /two-theories-of-japanese-culture/
+permalink: "/two-theories-of-japanese-culture/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Two favorite theories from [Japan and the Shackles of the Past](https://amzn.to/2DfL37f):
 

@@ -1,14 +1,15 @@
 ---
 id: 139
 title: Two More Tidbits About African History
-date: 2013-07-16T09:21:59-07:00
+date: 2013-07-16 09:21:59.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=139
-permalink: /two-more-tidbits-about-african-history/
+permalink: "/two-more-tidbits-about-african-history/"
 categories:
-  - History
-  - Uncategorized
+- History
+- Uncategorized
+wp_migrate: dirty
 ---
 From my notes about <a href="http://www.amazon.com/Africa-Biography-Continent-John-Reader/dp/067973869X" target="_blank">John Reader&#8217;s Africa</a>, two fascinating and poetic tidbits to go along with my two previous posts (<a title="Annals of Comparative Advantage" href="http://louispotok.com/annals-of-comparative-advantage/" target="_blank">here </a>and <a title="Africa: Reproductive Strategies and the Value of Gold" href="http://louispotok.com/africa-reproductive-strategies-and-the-value-of-gold/" target="_blank">here</a>).
 

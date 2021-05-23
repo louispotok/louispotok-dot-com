@@ -1,15 +1,16 @@
 ---
 id: 51
 title: Portfolio Theory and the Laboratories of Democracy
-date: 2013-03-12T14:54:10-07:00
+date: 2013-03-12 14:54:10.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=51
-permalink: /portfolio-theory-and-the-laboratories-of-democracy/
+permalink: "/portfolio-theory-and-the-laboratories-of-democracy/"
 categories:
-  - Economics
-  - Experiments
-  - Politics
+- Economics
+- Experiments
+- Politics
+wp_migrate: dirty
 ---
 The common thinking is that the USA benefits by having many states because they will have different policies and we can thereby learn which policies are most effective.[1](#footnote_0_51 "This idea is known as &ldquo;laboratories of democracy&rdquo; and was brought to my attention by the Charles Pierce series of the same name."){#identifier_0_51.footnote-link.footnote-identifier-link} This idea is intuitive but actually I think the opposite is the case: as government gets larger it becomes more (theoretically) capable of doing the kind of experimentation that leads to better policy.
 

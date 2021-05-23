@@ -1,14 +1,15 @@
 ---
 id: 319
 title: Fundamental Attribution Error and the Master Race
-date: 2014-06-16T13:22:00-07:00
+date: 2014-06-16 13:22:00.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=319
-permalink: /fundamental-attribution-error-and-the-master-race/
+permalink: "/fundamental-attribution-error-and-the-master-race/"
 categories:
-  - Film
-  - Psychology
+- Film
+- Psychology
+wp_migrate: dirty
 ---
 I just re-watched Hitchcock&#8217;s [Lifeboat](http://www.amazon.com/gp/product/B000UL087O/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000UL087O&linkCode=as2&tag=capilactio-20) and it provides a really nice demonstration of the Fundamental Attribution Error. (The film has other virtues too.)
 

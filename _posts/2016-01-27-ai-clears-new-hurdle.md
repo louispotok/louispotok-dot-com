@@ -1,13 +1,14 @@
 ---
 id: 426
 title: AI Clears New Hurdle; beats European Go champion 5-0
-date: 2016-01-27T11:12:42-08:00
+date: 2016-01-27 11:12:42.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=426
-permalink: /ai-clears-new-hurdle/
+permalink: "/ai-clears-new-hurdle/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Today Google&#8217;s DeepMind team [announced](https://t.co/mvCnAeiY2E) that they built a Go-playing AI which beat the European Go champion 5 games to 0. This has been a long time coming! Look at timeline of games conquered by computers:
 

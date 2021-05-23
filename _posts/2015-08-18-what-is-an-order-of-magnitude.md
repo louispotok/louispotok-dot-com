@@ -1,13 +1,14 @@
 ---
 id: 386
 title: What is an order of magnitude?
-date: 2015-08-18T11:17:32-07:00
+date: 2015-08-18 11:17:32.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=386
-permalink: /what-is-an-order-of-magnitude/
+permalink: "/what-is-an-order-of-magnitude/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 I&#8217;ve always wondered exactly how to define an order of magnitude. At [ideas42](http://www.ideas42.org) I had a particular colleague with a PhD in Econ; one time I mentioned that I think use it in a &#8220;fuzzy&#8221; way, and he responded that he always uses it in an exact way.
 

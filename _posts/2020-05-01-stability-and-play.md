@@ -1,13 +1,14 @@
 ---
 id: 624
 title: Stability and Play
-date: 2020-05-01T06:26:38-07:00
+date: 2020-05-01 06:26:38.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=624
-permalink: /stability-and-play/
+permalink: "/stability-and-play/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 I often think about how heavy my head is. When I let it rest on my hand, or lie down, I feel its weight and think about how much work my neck is doing to keep it upright throughout the day. The neck is, generally, an incredible system which [keeps the head stable](https://youtu.be/bLIU18s4cy8) and allows for fully three-dimensional movement (pitch, roll, yaw) through a fairly wide range.
 

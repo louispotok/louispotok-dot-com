@@ -1,17 +1,18 @@
 ---
 id: 325
 title: All you need to know about the NFL's Personal Conduct Policy
-date: 2014-09-11T10:59:37-07:00
+date: 2014-09-11 10:59:37.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=325
-permalink: /nfl-conduct-policy/
+permalink: "/nfl-conduct-policy/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - hypocrisy
-  - idiocy
-  - sports
+- hypocrisy
+- idiocy
+- sports
+wp_migrate: dirty
 ---
 > &#8220;Discipline may be imposed in any of the following circumstances:
 > 

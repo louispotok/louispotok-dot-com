@@ -1,14 +1,15 @@
 ---
 id: 85
 title: The Open Office and How to Work Better
-date: 2013-03-28T13:07:02-07:00
+date: 2013-03-28 13:07:02.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=85
-permalink: /the-open-office-and-how-to-work-better/
+permalink: "/the-open-office-and-how-to-work-better/"
 categories:
-  - Architecture
-  - Design
+- Architecture
+- Design
+wp_migrate: dirty
 ---
 The [open office plan](http://www.bbc.co.uk/news/magazine-21878739) is older than you think:
 

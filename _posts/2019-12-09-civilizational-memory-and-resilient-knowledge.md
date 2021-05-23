@@ -1,15 +1,16 @@
 ---
 id: 597
 title: Civilizational Memory and Resilient Knowledge
-date: 2019-12-09T20:52:05-08:00
+date: 2019-12-09 20:52:05.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=597
-permalink: /civilizational-memory-and-resilient-knowledge/
+permalink: "/civilizational-memory-and-resilient-knowledge/"
 categories:
-  - Cognitive Toolkit
-  - Economics
-  - History
+- Cognitive Toolkit
+- Economics
+- History
+wp_migrate: dirty
 ---
 [Update: this is a subconscious paraphrase, or at least extension, of Jonathan Blow&#8217;s excellent talk [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk) which I watched a few months ago. Thanks [JP](https://twitter.com/JanPaul123/status/1204300097774702592) for the reminder.]
 

@@ -1,18 +1,19 @@
 ---
 id: 565
 title: A Pattern Language
-date: 2018-07-10T15:23:48-07:00
+date: 2018-07-10 15:23:48.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=565
-permalink: /a-pattern-language/
+permalink: "/a-pattern-language/"
 categories:
-  - Architecture
-  - Cognitive Toolkit
-  - Data Science
-  - Design
-  - Politics
-  - Urbanism
+- Architecture
+- Cognitive Toolkit
+- Data Science
+- Design
+- Politics
+- Urbanism
+wp_migrate: dirty
 ---
 I&#8217;ve been seeing people recommend A Pattern Language ([amazon](https://amzn.to/2u6YB0E), very large [pdf](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf)) here and there for a few years now and finally picked it up. I&#8217;ve only begun to read it, but it is a truly remarkable work. In particular it draws a thick and complex connection between _design_ and _ethics._
 

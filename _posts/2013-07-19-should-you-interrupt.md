@@ -1,14 +1,15 @@
 ---
 id: 160
 title: Should You Interrupt?
-date: 2013-07-19T10:43:05-07:00
+date: 2013-07-19 10:43:05.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=160
-permalink: /should-you-interrupt/
+permalink: "/should-you-interrupt/"
 categories:
-  - Economics
-  - Food
+- Economics
+- Food
+wp_migrate: dirty
 ---
 Some processes can be interrupted and restarted at little-to-no cost, while others suffer greatly from interruption.
 

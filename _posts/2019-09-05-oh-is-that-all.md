@@ -1,13 +1,14 @@
 ---
 id: 584
 title: Oh, is that all?
-date: 2019-09-05T16:56:31-07:00
+date: 2019-09-05 16:56:31.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=584
-permalink: /oh-is-that-all/
+permalink: "/oh-is-that-all/"
 categories:
-  - History
+- History
+wp_migrate: dirty
 ---
 How did the ancient Egyptians build those giant pyramids? Did they have access to some secret technique that we don&#8217;t know about? Well, yes and no.
 

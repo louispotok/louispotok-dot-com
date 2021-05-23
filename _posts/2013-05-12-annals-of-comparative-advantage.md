@@ -1,14 +1,15 @@
 ---
 id: 136
 title: Annals of Comparative Advantage
-date: 2013-05-12T23:33:01-07:00
+date: 2013-05-12 23:33:01.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=136
-permalink: /annals-of-comparative-advantage/
+permalink: "/annals-of-comparative-advantage/"
 categories:
-  - Economics
-  - History
+- Economics
+- History
+wp_migrate: dirty
 ---
 In my [last post](http://louispotok.com/africa-reproductive-strategies-and-the-value-of-gold/) I talked about two interesting things I learned from [John Reader&#8217;s Africa: A Biography of a Continent.](http://www.amazon.com/Africa-Biography-Continent-John-Reader/dp/067973869X) I also mentioned that the book is sometimes infuriatingly superficial or wrongheaded in its treatment of science or economics. Let&#8217;s look at an example:
 

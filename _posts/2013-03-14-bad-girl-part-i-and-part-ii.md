@@ -1,13 +1,14 @@
 ---
 id: 66
 title: Bad Girl (Part I and Part II)
-date: 2013-03-14T12:22:16-07:00
+date: 2013-03-14 12:22:16.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=66
-permalink: /bad-girl-part-i-and-part-ii/
+permalink: "/bad-girl-part-i-and-part-ii/"
 categories:
-  - Music
+- Music
+wp_migrate: dirty
 ---
 Did you know there is a genre of music called &#8220;deep soul&#8221;? The [Wikipedia page](http://en.wikipedia.org/wiki/Deep_soul) explains &#8220;The focus of the music was not on its lyrics, but on the &#8220;feel&#8221; or the [groove](http://en.wikipedia.org/wiki/Groove_(music) "Groove (music)").&#8221;
 

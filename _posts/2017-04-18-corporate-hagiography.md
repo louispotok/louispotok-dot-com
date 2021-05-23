@@ -1,13 +1,14 @@
 ---
 id: 513
 title: USAFacts, Corporate Hagiography and Historical Ignorance
-date: 2017-04-18T10:30:11-07:00
+date: 2017-04-18 10:30:11.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=513
-permalink: /corporate-hagiography/
+permalink: "/corporate-hagiography/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 This morning my circles are talking about Steve Ballmer&#8217;s new government data initiative [USAFacts](https://www.usafacts.org/) as reported in [this NYT article](https://www.nytimes.com/2017/04/17/business/dealbook/steve-ballmer-serves-up-a-fascinating-data-trove.html?_r=0).
 

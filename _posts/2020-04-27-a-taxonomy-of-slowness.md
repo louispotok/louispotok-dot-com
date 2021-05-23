@@ -1,14 +1,15 @@
 ---
 id: 616
 title: A Taxonomy of Slowness
-date: 2020-04-27T11:20:01-07:00
+date: 2020-04-27 11:20:01.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=616
-permalink: /a-taxonomy-of-slowness/
+permalink: "/a-taxonomy-of-slowness/"
 categories:
-  - Cognitive Toolkit
-  - Psychology
+- Cognitive Toolkit
+- Psychology
+wp_migrate: dirty
 ---
 You&#8217;re on a car camping trip with some friends. After a long night of sitting around the fire and looking at the beautiful stars, the morning light filters into your tent and wakes you up slowly. You&#8217;re well-rested and your hair smells like a campfire, and it&#8217;s time to make breakfast. You and your friends eat and clean up together. Now it&#8217;s time for everyone to break camp and head home. You shove your sleeping bag back into its sack, pack up your tent, and look around in the grass to make sure you haven&#8217;t forgotten anything. 
 

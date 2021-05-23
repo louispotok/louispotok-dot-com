@@ -1,13 +1,14 @@
 ---
 id: 280
 title: SF's Finest
-date: 2014-03-13T13:46:13-07:00
+date: 2014-03-13 13:46:13.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=280
-permalink: /sfs-finest/
+permalink: "/sfs-finest/"
 categories:
-  - Urbanism
+- Urbanism
+wp_migrate: dirty
 ---
 Last night I was looking through a [list of SFPD radio codes](http://www.scansf.com/sfpd_radio_codes.txt). Here are the best ones:
 

@@ -1,13 +1,14 @@
 ---
 id: 130
 title: 'Africa: Reproductive Strategies and the Value of Gold'
-date: 2013-05-11T01:08:24-07:00
+date: 2013-05-11 01:08:24.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=130
-permalink: /africa-reproductive-strategies-and-the-value-of-gold/
+permalink: "/africa-reproductive-strategies-and-the-value-of-gold/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Partway through John Reader&#8217;s [Africa: A Biography of a Continent](http://www.amazon.com/Africa-Biography-Continent-John-Reader/dp/067973869X) I&#8217;ve been disappointed in some superficial or misleading sections about science and economics. But the book is definitely worth a read if you have broad interests and I wanted to post about two topics that caught my interest.
 

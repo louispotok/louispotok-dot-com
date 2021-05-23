@@ -1,15 +1,16 @@
 ---
 id: 224
 title: My Dictum and Your Blind Spots
-date: 2013-11-07T10:53:06-08:00
+date: 2013-11-07 10:53:06.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=224
-permalink: /my-dictum-and-your-blind-spots/
+permalink: "/my-dictum-and-your-blind-spots/"
 categories:
-  - Cognitive Toolkit
-  - Math
-  - Psychology
+- Cognitive Toolkit
+- Math
+- Psychology
+wp_migrate: dirty
 ---
 In [Thinking Fast and Slow](http://www.amazon.com/gp/product/0374275637/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374275637&linkCode=as2&tag=capilactio-20) (one of my [5 behavioral economics must-reads](http://louispotok.com/5-easy-steps-to-becoming-louis/ "5 Easy Steps To Becoming Louis Potok")), Kahneman lays out the memorable idea that &#8220;What You See Is All There Is.&#8221; He explains it nicely in [a brief interview](http://www.apa.org/monitor/2012/02/conclusions.aspx):
 

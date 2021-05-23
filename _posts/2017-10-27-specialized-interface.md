@@ -1,14 +1,15 @@
 ---
 id: 548
 title: Complex actions need specialized interfaces
-date: 2017-10-27T10:49:26-07:00
+date: 2017-10-27 10:49:26.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=548
-permalink: /specialized-interface/
+permalink: "/specialized-interface/"
 categories:
-  - Design
-  - Psychology
+- Design
+- Psychology
+wp_migrate: dirty
 ---
 Yesterday I was in a room with a Bloomberg terminal. Bloomberg is specialized software used by financial professionals to navigate data and take actions. Users interact with the system through a specialized keyboard that looks like this:
 

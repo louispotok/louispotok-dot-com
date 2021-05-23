@@ -1,13 +1,14 @@
 ---
 id: 275
 title: Don't Hold Your Breath
-date: 2014-03-12T12:52:29-07:00
+date: 2014-03-12 12:52:29.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=275
-permalink: /dont-hold-your-breath/
+permalink: "/dont-hold-your-breath/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Our ape-brains boggle at the vastness of time.
 

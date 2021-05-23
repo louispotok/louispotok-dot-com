@@ -1,13 +1,14 @@
 ---
 id: 287
 title: Become Interesting
-date: 2014-03-19T16:01:14-07:00
+date: 2014-03-19 16:01:14.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=287
-permalink: /become-interesting/
+permalink: "/become-interesting/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Do you know someone who always has interesting things to talk about? They have a secret, but it&#8217;s probably more mundane than you think. I&#8217;d bet they just subscribe to a cool email newsletter. (Classic fundamental attribution error alert!) Here are my current favorites:
 

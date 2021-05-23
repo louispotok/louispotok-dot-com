@@ -1,15 +1,16 @@
 ---
 id: 476
 title: Book Review | Earthseed Series | Octavia Butler
-date: 2017-03-19T07:03:48-07:00
+date: 2017-03-19 07:03:48.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=476
-permalink: /book-review-earthseed-series-octavia-butler/
+permalink: "/book-review-earthseed-series-octavia-butler/"
 categories:
-  - Literature
-  - Politics
-  - Uncategorized
+- Literature
+- Politics
+- Uncategorized
+wp_migrate: dirty
 ---
 _[Parable of the Sower](http://amzn.to/2mFkwW4)_ and _[Parable of the Talents](http://amzn.to/2jtgi2C)_ by Octavia Butler
 

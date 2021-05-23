@@ -1,13 +1,14 @@
 ---
 id: 378
 title: Get Broader
-date: 2015-06-03T08:56:08-07:00
+date: 2015-06-03 08:56:08.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=378
-permalink: /get-broader/
+permalink: "/get-broader/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Convene five of your friends who collectively have some expertise in each of the following:
 

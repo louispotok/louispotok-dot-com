@@ -1,15 +1,16 @@
 ---
 id: 199
 title: The Three Levels Of Frustration
-date: 2013-10-25T14:00:58-07:00
+date: 2013-10-25 14:00:58.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=199
-permalink: /the-three-levels-of-frustration/
+permalink: "/the-three-levels-of-frustration/"
 categories:
-  - Politics
-  - Psychology
-  - Uncategorized
+- Politics
+- Psychology
+- Uncategorized
+wp_migrate: dirty
 ---
 There are three ways to react to frustration and there&#8217;s a _strict hierarchy_ of these responses. As you move from Level 1 to Level 3, you have to put in _more effort_ but you get _more re__turn_. The exact tradeoff between effort and return depends a lot on the exact situation, but overall Level 3 is always harder and more rewarding than Level 2, and so on. You&#8217;ve probably had each of these responses at different times, and I think some people are more prone to one than the next.
 

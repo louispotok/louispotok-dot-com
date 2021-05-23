@@ -1,13 +1,14 @@
 ---
 id: 574
 title: Defensive Randomization
-date: 2019-07-09T13:19:47-07:00
+date: 2019-07-09 13:19:47.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=574
-permalink: /defensive-randomization/
+permalink: "/defensive-randomization/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Machine learning is common and its use is growing. As time goes on, most of the options that you face in your life will be chosen by opaque algorithms that are optimizing for corporate profits. For example, the prices you see will be the highest price under which you&#8217;ll buy, as based on an enormous amount of data about you and your past decisions.
 

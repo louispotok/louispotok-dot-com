@@ -1,15 +1,16 @@
 ---
 id: 381
 title: Architect Donald MacDonald
-date: 2015-06-25T20:45:47-07:00
+date: 2015-06-25 20:45:47.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=381
-permalink: /architect-donald-macdonald/
+permalink: "/architect-donald-macdonald/"
 categories:
-  - Architecture
-  - Design
-  - Urbanism
+- Architecture
+- Design
+- Urbanism
+wp_migrate: dirty
 ---
 <p class="page-header">
   I went to a talk tonight by architect <a href="http://donaldmacdonaldarchitects.com">Donald MacDonald</a>. The talk was called &#8220;Democratic Architecture: Practical Solutions to Housing Crises&#8221; but as I&#8217;ll get to in a bit, I think the title was pretty bad.

@@ -1,16 +1,17 @@
 ---
 id: 229
 title: Mathematical Decision-Making
-date: 2013-11-05T11:52:47-08:00
+date: 2013-11-05 11:52:47.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=229
-permalink: /mathematical-decision-making/
+permalink: "/mathematical-decision-making/"
 categories:
-  - Cognitive Toolkit
-  - Math
-  - Psychology
-  - Uncategorized
+- Cognitive Toolkit
+- Math
+- Psychology
+- Uncategorized
+wp_migrate: dirty
 ---
 Whenever you make a decision you have to consider a universe of facts. Suppose you&#8217;re trying to decide where to go on vacation.
 

@@ -1,14 +1,15 @@
 ---
 id: 156
 title: How Large Institutions Screw You Over
-date: 2013-07-18T10:59:28-07:00
+date: 2013-07-18 10:59:28.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=156
-permalink: /how-large-institutions-screw-you-over/
+permalink: "/how-large-institutions-screw-you-over/"
 categories:
-  - Economics
-  - Politics
+- Economics
+- Politics
+wp_migrate: dirty
 ---
 Have you ever caught your bank making a mistake? Maybe they levied a fee in error, or maybe they penalized you twice for the same overdraft, or so on. I had this happen once&#8211;my account was &#8220;automatically&#8221; switched from a student no-fee no-minimum account, and so I immediately started racking up penalties for failing to meet the minimum account requirements. When I complained, I was treated nicely, the mistake was fixed, and I got various perks.
 

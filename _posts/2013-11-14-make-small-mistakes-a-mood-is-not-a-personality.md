@@ -1,17 +1,18 @@
 ---
 id: 252
 title: 'Make Small Mistakes: A Mood Is Not A Personality'
-date: 2013-11-14T01:32:25-08:00
+date: 2013-11-14 01:32:25.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=252
-permalink: /make-small-mistakes-a-mood-is-not-a-personality/
+permalink: "/make-small-mistakes-a-mood-is-not-a-personality/"
 categories:
-  - Economics
-  - Experiments
-  - Politics
-  - Psychology
-  - Uncategorized
+- Economics
+- Experiments
+- Politics
+- Psychology
+- Uncategorized
+wp_migrate: dirty
 ---
 Alex Tabarrok has a new paper out showing that [easy availability of guns increases the number of suicides](http://marginalrevolution.com/marginalrevolution/2013/11/firearms-and-suicides-in-us-states.html). (Read the comments section on that post, it&#8217;s full of good tidbits like the fact that [there are more suicides farther from the equator](http://www.targetmap.com/ThumbnailsReports/6069_THUMB_IPAD.jpg).) This is an econometric study, but there is a psychological angle:
 

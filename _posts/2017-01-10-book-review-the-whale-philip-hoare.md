@@ -1,15 +1,16 @@
 ---
 id: 474
 title: Book Review | The Whale | Philip Hoare
-date: 2017-01-10T21:48:47-08:00
+date: 2017-01-10 21:48:47.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=474
-permalink: /book-review-the-whale-philip-hoare/
+permalink: "/book-review-the-whale-philip-hoare/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - Books2017
+- Books2017
+wp_migrate: dirty
 ---
 _[The Whale: In Search of the Giants of the Sea](http://amzn.to/2j6eqAd) _by [Philip Hoare](https://twitter.com/philipwhale/)
 

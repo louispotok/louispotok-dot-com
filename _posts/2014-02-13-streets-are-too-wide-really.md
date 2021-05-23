@@ -1,15 +1,16 @@
 ---
 id: 270
 title: Streets Are Too Wide…Really
-date: 2014-02-13T12:14:34-08:00
+date: 2014-02-13 12:14:34.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=270
-permalink: /streets-are-too-wide-really/
+permalink: "/streets-are-too-wide-really/"
 categories:
-  - Design
-  - Psychology
-  - Urbanism
+- Design
+- Psychology
+- Urbanism
+wp_migrate: dirty
 ---
 Have you ever heard of a sneckdown? Or even a neckdown? I just got [a fascinating email](http://transalt.org/files/news/streetbeat/2014/Feb/0213.html) with a great diagram pointing out that snow reveals patterns of street use:
 

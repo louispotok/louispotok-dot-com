@@ -1,13 +1,14 @@
 ---
 id: 439
 title: Seven Year Exercise Windows
-date: 2016-05-25T16:19:26-07:00
+date: 2016-05-25 16:19:26.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=439
-permalink: /seven-year-exercise-windows/
+permalink: "/seven-year-exercise-windows/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Most startup option grants come with a 90-day exercise window when an employee leaves the company (voluntarily or not). This is standard practice. Essentially the problem is that this can force employees to take a major personal financial hit to exercise their options when they leave or are fired, and perversely this is worse the more the company has grown during their time there. (Exercising options comes with a tax hit proportional to the amount the stock has increased in value since the option was granted.)
 

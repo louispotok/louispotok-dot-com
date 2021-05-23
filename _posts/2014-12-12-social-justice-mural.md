@@ -1,13 +1,14 @@
 ---
 id: 337
 title: Social Justice Mural
-date: 2014-12-12T15:28:55-08:00
+date: 2014-12-12 15:28:55.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=337
-permalink: /social-justice-mural/
+permalink: "/social-justice-mural/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 San Francisco is full of amazing murals! Here are some details from one I particularly like, on 25th and Mission.
 

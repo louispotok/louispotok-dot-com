@@ -1,14 +1,15 @@
 ---
 id: 151
 title: Why Does Anyone Live in NYC?
-date: 2013-07-17T10:46:29-07:00
+date: 2013-07-17 10:46:29.000000000 -07:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=151
-permalink: /why-does-anyone-live-in-nyc/
+permalink: "/why-does-anyone-live-in-nyc/"
 categories:
-  - Design
-  - Urbanism
+- Design
+- Urbanism
+wp_migrate: dirty
 ---
 What is it about snakes that makes people so jumpy and uncomfortable? There seem to be certain long-held and deeply human instincts, and Donald Norman&#8217;s <a href="http://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367" target="_blank">Emotional Design</a> (pp. 29-30) discusses how we can use these immediate affective responses&#8211;good and bad&#8211;in design. (<a title="Should Robots Have Emotions?" href="http://louispotok.com/should-robots-have-emotions/" target="_blank">A previous post about Emotional Design</a>)
 

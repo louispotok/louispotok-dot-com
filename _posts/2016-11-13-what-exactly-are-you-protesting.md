@@ -1,13 +1,14 @@
 ---
 id: 452
 title: What Exactly Are You Protesting
-date: 2016-11-13T09:01:23-08:00
+date: 2016-11-13 09:01:23.000000000 -08:00
 author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=452
-permalink: /what-exactly-are-you-protesting/
+permalink: "/what-exactly-are-you-protesting/"
 categories:
-  - Uncategorized
+- Uncategorized
+wp_migrate: dirty
 ---
 Every day for the last five days, Americans in every major city have organized and sustained protest marches against Donald Trump&#8217;s fascism and bigotry. I have spent most of that time trying to muster the courage and energy to join these marches, trying to overcome the gloom and devastation and hopelessness that I felt.
 
