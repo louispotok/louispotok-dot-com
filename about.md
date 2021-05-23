@@ -3,6 +3,8 @@ title: About
 author: Louis Potok
 layout: page
 permalink: /about/
+id: 2
+guid: http://louispotok.com/?p=2
 ---
 Hi! Thanks for visiting my webpage. This is one of my many homes on the World Wide Web. Mostly I am on [Twitter](https://twitter.com/louispotok) or you can reach me by emailing LouisPotok at gmail dot com.
 
