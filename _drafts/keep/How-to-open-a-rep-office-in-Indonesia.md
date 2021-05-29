@@ -2,7 +2,6 @@
 id: 656
 title: How to open a rep office in Indonesia
 date: 2021-04-15T09:23:07-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=656
 permalink: /?p=656

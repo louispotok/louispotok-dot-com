@@ -2,7 +2,6 @@
 id: 118
 title: The Political Situation in the Mario Universe (Quora)
 date: 2013-04-13 15:59:33.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=118
 permalink: "/the-political-situation-in-the-mario-universe-quora/"

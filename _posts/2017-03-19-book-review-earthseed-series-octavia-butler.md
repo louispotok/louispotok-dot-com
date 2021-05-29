@@ -2,7 +2,6 @@
 id: 476
 title: Book Review | Earthseed Series | Octavia Butler
 date: 2017-03-19 07:03:48.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=476
 permalink: "/book-review-earthseed-series-octavia-butler/"

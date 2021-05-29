@@ -2,7 +2,6 @@
 id: 258
 title: Don't Be Bill Murray
 date: 2013-12-24 14:32:13.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=258
 permalink: "/dont-be-bill-murray/"

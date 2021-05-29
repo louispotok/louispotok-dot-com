@@ -2,7 +2,6 @@
 id: 224
 title: My Dictum and Your Blind Spots
 date: 2013-11-07 10:53:06.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=224
 permalink: "/my-dictum-and-your-blind-spots/"

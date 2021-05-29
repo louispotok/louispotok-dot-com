@@ -2,7 +2,6 @@
 id: 75
 title: Lamb's Blood and Regression to the Mean
 date: 2013-03-25 18:25:56.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=75
 permalink: "/lambs-blood-and-regression-to-the-mean/"

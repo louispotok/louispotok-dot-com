@@ -2,7 +2,6 @@
 id: 626
 title: Cognition Is Social
 date: 2020-05-25 06:37:08.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=626
 permalink: "/cognition-is-social/"

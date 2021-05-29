@@ -2,7 +2,6 @@
 id: 130
 title: 'Africa: Reproductive Strategies and the Value of Gold'
 date: 2013-05-11 01:08:24.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=130
 permalink: "/africa-reproductive-strategies-and-the-value-of-gold/"

@@ -2,7 +2,6 @@
 id: 325
 title: All you need to know about the NFL's Personal Conduct Policy
 date: 2014-09-11 10:59:37.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=325
 permalink: "/nfl-conduct-policy/"

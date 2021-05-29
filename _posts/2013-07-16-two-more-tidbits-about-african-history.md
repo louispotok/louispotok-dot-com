@@ -2,7 +2,6 @@
 id: 139
 title: Two More Tidbits About African History
 date: 2013-07-16 09:21:59.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=139
 permalink: "/two-more-tidbits-about-african-history/"

@@ -2,7 +2,6 @@
 id: 287
 title: Become Interesting
 date: 2014-03-19 16:01:14.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=287
 permalink: "/become-interesting/"

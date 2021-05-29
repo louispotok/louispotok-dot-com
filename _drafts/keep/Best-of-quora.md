@@ -2,7 +2,6 @@
 id: 263
 title: Best of quora
 date: 2013-12-31T17:34:44-08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=263
 permalink: /?p=263

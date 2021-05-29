@@ -2,7 +2,6 @@
 id: 535
 title: What I've been reading lately
 date: 2017-09-05 10:31:28.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=535
 permalink: "/what-ive-been-reading-lately/"

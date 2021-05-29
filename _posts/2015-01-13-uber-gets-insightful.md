@@ -2,7 +2,6 @@
 id: 355
 title: Uber Gets Insightful
 date: 2015-01-13 10:53:54.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=355
 permalink: "/uber-gets-insightful/"

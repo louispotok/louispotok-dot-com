@@ -2,7 +2,6 @@
 id: 27
 title: Data-Driven Decision Making
 date: 2013-03-04 01:23:09.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=27
 permalink: "/data-driven-decision-making/"

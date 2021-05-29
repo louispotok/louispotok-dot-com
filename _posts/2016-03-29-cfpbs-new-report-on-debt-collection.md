@@ -2,7 +2,6 @@
 id: 433
 title: CFPB's New Report on Debt Collection
 date: 2016-03-29 14:42:45.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=433
 permalink: "/cfpbs-new-report-on-debt-collection/"

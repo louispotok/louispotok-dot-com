@@ -2,7 +2,6 @@
 id: 337
 title: Social Justice Mural
 date: 2014-12-12 15:28:55.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=337
 permalink: "/social-justice-mural/"

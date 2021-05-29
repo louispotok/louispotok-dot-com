@@ -2,7 +2,6 @@
 id: 458
 title: You Must Be Present To Win
 date: 2016-11-13 17:45:31.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=458
 permalink: "/you-must-be-present-to-win/"

@@ -2,7 +2,6 @@
 id: 122
 title: Rethink the Driving Experience
 date: 2013-04-15 12:05:57.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=122
 permalink: "/rethink-the-driving-experience/"

@@ -2,7 +2,6 @@
 id: 156
 title: How Large Institutions Screw You Over
 date: 2013-07-18 10:59:28.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=156
 permalink: "/how-large-institutions-screw-you-over/"

@@ -2,7 +2,6 @@
 id: 328
 title: The Genius of Peanuts
 date: 2014-09-12 11:10:27.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=328
 permalink: "/the-genius-of-peanuts/"

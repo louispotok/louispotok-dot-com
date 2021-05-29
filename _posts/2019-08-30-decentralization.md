@@ -2,7 +2,6 @@
 id: 582
 title: Decentralization
 date: 2019-08-30 09:13:46.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=582
 permalink: "/decentralization/"

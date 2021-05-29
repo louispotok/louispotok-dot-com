@@ -2,7 +2,6 @@
 id: 9
 title: A Wrongness You Can Never Fix
 date: 2013-01-21 21:02:13.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=9
 permalink: "/a-wrongness-you-can-never-fix/"

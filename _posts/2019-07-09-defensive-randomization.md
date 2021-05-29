@@ -2,7 +2,6 @@
 id: 574
 title: Defensive Randomization
 date: 2019-07-09 13:19:47.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=574
 permalink: "/defensive-randomization/"

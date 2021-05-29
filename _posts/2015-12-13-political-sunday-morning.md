@@ -2,7 +2,6 @@
 id: 423
 title: Political Sunday Morning
 date: 2015-12-13 12:58:47.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=423
 permalink: "/political-sunday-morning/"

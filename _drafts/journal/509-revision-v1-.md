@@ -1,7 +1,6 @@
 ---
 id: 510
 date: 2017-03-31T11:44:01-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/509-revision-v1/
 permalink: /?p=510

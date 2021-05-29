@@ -2,7 +2,6 @@
 id: 302
 title: 'But It&#8217;s Also a Sex Manual'
 date: 2014-03-31T15:13:56-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/299-revision-v1/
 permalink: /?p=302

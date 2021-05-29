@@ -2,7 +2,6 @@
 id: 182
 title: Shitty Journalism and Shittier Warmongering
 date: 2013-08-27 08:21:53.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=182
 permalink: "/shitty-journalism-and-shittier-warmongering/"

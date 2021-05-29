@@ -2,7 +2,6 @@
 id: 592
 title: Theories of Causation
 date: 2020-06-17T13:37:04-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=592
 permalink: /?p=592

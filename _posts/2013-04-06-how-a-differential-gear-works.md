@@ -2,7 +2,6 @@
 id: 92
 title: How a Differential Gear Works
 date: 2013-04-06 13:56:29.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=92
 permalink: "/how-a-differential-gear-works/"

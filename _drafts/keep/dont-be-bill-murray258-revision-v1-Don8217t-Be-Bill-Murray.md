@@ -2,7 +2,6 @@
 id: 259
 title: 'Don&#8217;t Be Bill Murray'
 date: 2013-12-23T19:37:02-08:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/258-revision-v1/
 permalink: /?p=259

@@ -2,7 +2,6 @@
 id: 213
 title: 5 Easy Steps To Becoming Louis Potok
 date: 2013-10-30 11:59:35.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=213
 permalink: "/5-easy-steps-to-becoming-louis/"

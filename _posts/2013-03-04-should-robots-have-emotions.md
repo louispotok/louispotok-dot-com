@@ -2,7 +2,6 @@
 id: 31
 title: Should Robots Have Emotions?
 date: 2013-03-04 03:08:18.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=31
 permalink: "/should-robots-have-emotions/"

@@ -2,7 +2,6 @@
 id: 569
 title: Surveillance Valley
 date: 2019-01-10 09:16:31.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=569
 permalink: "/surveillance-valley/"

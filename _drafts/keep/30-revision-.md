@@ -1,7 +1,6 @@
 ---
 id: 34
 date: 2013-03-04T02:24:06-08:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/30-revision/
 permalink: /?p=34

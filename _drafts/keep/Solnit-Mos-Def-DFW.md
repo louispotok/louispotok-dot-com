@@ -2,7 +2,6 @@
 id: 469
 title: Solnit / Mos Def / DFW
 date: 2017-03-19T09:19:35-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=469
 permalink: /?p=469

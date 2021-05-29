@@ -2,7 +2,6 @@
 id: 280
 title: SF's Finest
 date: 2014-03-13 13:46:13.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=280
 permalink: "/sfs-finest/"

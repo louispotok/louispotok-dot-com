@@ -2,7 +2,6 @@
 id: 19
 title: Shaking hands versus fist pound
 date: 2013-03-25T21:31:17-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=19
 permalink: /?p=19

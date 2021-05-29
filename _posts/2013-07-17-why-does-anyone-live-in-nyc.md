@@ -2,7 +2,6 @@
 id: 151
 title: Why Does Anyone Live in NYC?
 date: 2013-07-17 10:46:29.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=151
 permalink: "/why-does-anyone-live-in-nyc/"

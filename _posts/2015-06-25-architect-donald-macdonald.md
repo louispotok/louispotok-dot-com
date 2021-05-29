@@ -2,7 +2,6 @@
 id: 381
 title: Architect Donald MacDonald
 date: 2015-06-25 20:45:47.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=381
 permalink: "/architect-donald-macdonald/"

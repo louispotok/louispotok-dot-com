@@ -2,7 +2,6 @@
 id: 361
 title: I wish I had read this at last night's open mic
 date: 2015-02-06 09:12:55.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=361
 permalink: "/typewriter-poem/"

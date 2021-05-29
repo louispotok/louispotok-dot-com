@@ -2,7 +2,6 @@
 id: 223
 title: 'Books I&#8217;ve Loved'
 date: 2013-11-12T17:16:32-08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=223
 permalink: /?p=223

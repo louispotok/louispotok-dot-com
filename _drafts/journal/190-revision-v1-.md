@@ -1,7 +1,6 @@
 ---
 id: 198
 date: 2013-09-18T17:54:34-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/190-revision-v1/
 permalink: /?p=198

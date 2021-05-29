@@ -2,7 +2,6 @@
 id: 576
 title: Pluribus Skepticism
 date: 2019-07-18 10:29:22.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=576
 permalink: "/pluribus-skepticism/"

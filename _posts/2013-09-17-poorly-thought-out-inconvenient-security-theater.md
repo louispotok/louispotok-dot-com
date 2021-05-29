@@ -2,7 +2,6 @@
 id: 189
 title: Poorly Thought Out, Inconvenient Security Theater
 date: 2013-09-17 17:38:11.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=189
 permalink: "/poorly-thought-out-inconvenient-security-theater/"

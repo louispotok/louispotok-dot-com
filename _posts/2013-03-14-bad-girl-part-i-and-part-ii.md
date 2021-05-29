@@ -2,7 +2,6 @@
 id: 66
 title: Bad Girl (Part I and Part II)
 date: 2013-03-14 12:22:16.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=66
 permalink: "/bad-girl-part-i-and-part-ii/"

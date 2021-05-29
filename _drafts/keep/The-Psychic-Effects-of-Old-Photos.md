@@ -2,7 +2,6 @@
 id: 30
 title: The Psychic Effects of Old Photos
 date: 2013-03-25T21:39:35-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=30
 permalink: /?p=30

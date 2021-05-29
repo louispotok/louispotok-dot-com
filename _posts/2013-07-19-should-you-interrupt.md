@@ -2,7 +2,6 @@
 id: 160
 title: Should You Interrupt?
 date: 2013-07-19 10:43:05.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=160
 permalink: "/should-you-interrupt/"

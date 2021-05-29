@@ -2,7 +2,6 @@
 id: 378
 title: Get Broader
 date: 2015-06-03 08:56:08.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=378
 permalink: "/get-broader/"

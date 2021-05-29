@@ -2,7 +2,6 @@
 id: 177
 title: Words I Learned from Reading Lolita
 date: 2013-08-10T09:36:38-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/176-revision/
 permalink: /?p=177

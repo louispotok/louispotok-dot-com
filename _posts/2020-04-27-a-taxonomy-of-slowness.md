@@ -2,7 +2,6 @@
 id: 616
 title: A Taxonomy of Slowness
 date: 2020-04-27 11:20:01.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=616
 permalink: "/a-taxonomy-of-slowness/"

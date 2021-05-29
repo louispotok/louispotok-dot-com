@@ -2,7 +2,6 @@
 id: 624
 title: Stability and Play
 date: 2020-05-01 06:26:38.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=624
 permalink: "/stability-and-play/"

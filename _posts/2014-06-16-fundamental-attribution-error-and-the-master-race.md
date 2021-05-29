@@ -2,7 +2,6 @@
 id: 319
 title: Fundamental Attribution Error and the Master Race
 date: 2014-06-16 13:22:00.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=319
 permalink: "/fundamental-attribution-error-and-the-master-race/"

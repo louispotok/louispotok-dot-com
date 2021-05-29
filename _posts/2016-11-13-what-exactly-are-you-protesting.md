@@ -2,7 +2,6 @@
 id: 452
 title: What Exactly Are You Protesting
 date: 2016-11-13 09:01:23.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=452
 permalink: "/what-exactly-are-you-protesting/"

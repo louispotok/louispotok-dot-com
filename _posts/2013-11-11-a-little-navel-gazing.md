@@ -2,7 +2,6 @@
 id: 238
 title: A Little Navel-Gazing
 date: 2013-11-11 10:23:47.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=238
 permalink: "/a-little-navel-gazing/"

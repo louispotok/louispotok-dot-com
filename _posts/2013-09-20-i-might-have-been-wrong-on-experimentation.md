@@ -2,7 +2,6 @@
 id: 202
 title: 'I Might Have Been Wrong: On Experimentation'
 date: 2013-09-20 10:28:31.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=202
 permalink: "/i-might-have-been-wrong-on-experimentation/"

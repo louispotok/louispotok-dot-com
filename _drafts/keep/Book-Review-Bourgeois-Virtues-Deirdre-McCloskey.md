@@ -2,7 +2,6 @@
 id: 543
 title: Book Review | Bourgeois Virtues | Deirdre McCloskey
 date: 2017-09-25T10:04:53-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=543
 permalink: /?p=543

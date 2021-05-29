@@ -2,7 +2,6 @@
 id: 606
 title: Two theories of driving
 date: 2020-01-09 23:22:28.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=606
 permalink: "/two-theories-of-driving/"

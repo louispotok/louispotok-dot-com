@@ -2,7 +2,6 @@
 id: 439
 title: Seven Year Exercise Windows
 date: 2016-05-25 16:19:26.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=439
 permalink: "/seven-year-exercise-windows/"

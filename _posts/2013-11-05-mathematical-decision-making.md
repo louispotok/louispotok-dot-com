@@ -2,7 +2,6 @@
 id: 229
 title: Mathematical Decision-Making
 date: 2013-11-05 11:52:47.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=229
 permalink: "/mathematical-decision-making/"

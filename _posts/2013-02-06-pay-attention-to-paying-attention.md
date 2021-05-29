@@ -2,7 +2,6 @@
 id: 23
 title: Pay Attention to Paying Attention
 date: 2013-02-06 02:12:06.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=23
 permalink: "/pay-attention-to-paying-attention/"

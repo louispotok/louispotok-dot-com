@@ -2,7 +2,6 @@
 id: 111
 title: Foxes, Hedgehogs, TED Talks, and Meta-Rules
 date: 2013-04-08 16:49:16.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=111
 permalink: "/foxes-hedgehogs-ted-talks-and-meta-rules-2/"

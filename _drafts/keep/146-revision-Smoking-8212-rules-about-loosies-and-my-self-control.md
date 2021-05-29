@@ -2,7 +2,6 @@
 id: 147
 title: 'Smoking &#8212; rules about loosies and my self control'
 date: 2013-06-11T03:17:00-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/146-revision/
 permalink: /?p=147

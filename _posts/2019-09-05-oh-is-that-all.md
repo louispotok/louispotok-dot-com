@@ -2,7 +2,6 @@
 id: 584
 title: Oh, is that all?
 date: 2019-09-05 16:56:31.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=584
 permalink: "/oh-is-that-all/"

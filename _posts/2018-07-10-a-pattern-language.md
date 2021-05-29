@@ -2,7 +2,6 @@
 id: 565
 title: A Pattern Language
 date: 2018-07-10 15:23:48.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=565
 permalink: "/a-pattern-language/"

@@ -2,7 +2,6 @@
 id: 243
 title: 'write about miriam&#8217;s kitchen?'
 date: 2013-11-11T00:39:40-08:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/241-revision-v1/
 permalink: /?p=243

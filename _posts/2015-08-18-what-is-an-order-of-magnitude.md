@@ -2,7 +2,6 @@
 id: 386
 title: What is an order of magnitude?
 date: 2015-08-18 11:17:32.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=386
 permalink: "/what-is-an-order-of-magnitude/"

@@ -2,7 +2,6 @@
 id: 483
 title: stats
 date: 2017-03-19T09:05:20-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=483
 permalink: /?p=483

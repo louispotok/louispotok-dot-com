@@ -2,7 +2,6 @@
 id: 77
 title: Human Memory and Machines that Forget
 date: 2013-03-25T21:18:19-07:00
-author: Louis Potok
 layout: revision
 guid: http://louispotok.com/16-revision-7/
 permalink: /?p=77

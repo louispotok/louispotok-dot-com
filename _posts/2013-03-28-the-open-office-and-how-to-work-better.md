@@ -2,7 +2,6 @@
 id: 85
 title: The Open Office and How to Work Better
 date: 2013-03-28 13:07:02.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=85
 permalink: "/the-open-office-and-how-to-work-better/"

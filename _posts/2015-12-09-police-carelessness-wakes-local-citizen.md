@@ -2,7 +2,6 @@
 id: 400
 title: Police Carelessness Wakes Local Citizen
 date: 2015-12-09 09:28:50.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=400
 permalink: "/police-carelessness-wakes-local-citizen/"

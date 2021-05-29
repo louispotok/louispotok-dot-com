@@ -2,7 +2,6 @@
 id: 136
 title: Annals of Comparative Advantage
 date: 2013-05-12 23:33:01.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=136
 permalink: "/annals-of-comparative-advantage/"

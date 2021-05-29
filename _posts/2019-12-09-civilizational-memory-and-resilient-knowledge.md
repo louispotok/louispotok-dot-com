@@ -2,7 +2,6 @@
 id: 597
 title: Civilizational Memory and Resilient Knowledge
 date: 2019-12-09 20:52:05.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=597
 permalink: "/civilizational-memory-and-resilient-knowledge/"

@@ -2,7 +2,6 @@
 id: 589
 title: Where are you from?
 date: 2019-11-07 07:35:32.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=589
 permalink: "/where-are-you-from/"

@@ -2,7 +2,6 @@
 id: 167
 title: I Regret X Again and Again
 date: 2013-07-22 10:50:54.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=167
 permalink: "/i-regret-x-again-and-again/"

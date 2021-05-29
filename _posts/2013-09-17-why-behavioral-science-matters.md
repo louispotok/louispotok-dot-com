@@ -2,7 +2,6 @@
 id: 181
 title: Why (Behavioral) Science Matters
 date: 2013-09-17 18:29:53.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=181
 permalink: "/why-behavioral-science-matters/"

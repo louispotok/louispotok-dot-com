@@ -2,7 +2,6 @@
 id: 517
 title: Tools for Collaborative Data Science
 date: 2017-04-19T09:46:40-07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=517
 permalink: /?p=517

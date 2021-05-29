@@ -2,7 +2,6 @@
 id: 548
 title: Complex actions need specialized interfaces
 date: 2017-10-27 10:49:26.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=548
 permalink: "/specialized-interface/"

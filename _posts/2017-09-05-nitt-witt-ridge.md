@@ -2,7 +2,6 @@
 id: 533
 title: Nitt Witt Ridge
 date: 2017-09-05 10:09:25.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=533
 permalink: "/nitt-witt-ridge/"

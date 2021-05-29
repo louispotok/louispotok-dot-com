@@ -2,7 +2,6 @@
 id: 426
 title: AI Clears New Hurdle; beats European Go champion 5-0
 date: 2016-01-27 11:12:42.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=426
 permalink: "/ai-clears-new-hurdle/"

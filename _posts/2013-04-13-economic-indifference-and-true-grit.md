@@ -2,7 +2,6 @@
 id: 99
 title: Economic Indifference and True Grit
 date: 2013-04-13 16:16:42.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=99
 permalink: "/economic-indifference-and-true-grit/"

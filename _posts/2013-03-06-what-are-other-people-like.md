@@ -2,7 +2,6 @@
 id: 37
 title: What Are Other People Like?
 date: 2013-03-06 13:30:58.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=37
 permalink: "/what-are-other-people-like/"

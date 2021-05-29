@@ -2,7 +2,6 @@
 id: 497
 title: 'Python tip: Inspect function signature at runtime'
 date: 2017-03-21 13:08:07.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=497
 permalink: "/python-tip-inspect-function-signature-at-runtime/"

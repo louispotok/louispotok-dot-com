@@ -2,7 +2,6 @@
 id: 51
 title: Portfolio Theory and the Laboratories of Democracy
 date: 2013-03-12 14:54:10.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=51
 permalink: "/portfolio-theory-and-the-laboratories-of-democracy/"

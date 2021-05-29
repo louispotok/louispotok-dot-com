@@ -2,7 +2,6 @@
 id: 562
 title: Police Science
 date: 2018-06-11 20:14:25.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=562
 permalink: "/police-science/"

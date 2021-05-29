@@ -2,7 +2,6 @@
 id: 622
 title: Fear of Criticism
 date: 2020-04-29 11:20:00.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=622
 permalink: "/fear-of-criticism/"

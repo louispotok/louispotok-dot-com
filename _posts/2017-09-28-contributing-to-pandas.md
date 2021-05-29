@@ -2,7 +2,6 @@
 id: 538
 title: Contributing to pandas
 date: 2017-09-28 22:05:08.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=538
 permalink: "/contributing-to-pandas/"

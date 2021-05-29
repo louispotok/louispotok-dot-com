@@ -2,7 +2,6 @@
 id: 474
 title: Book Review | The Whale | Philip Hoare
 date: 2017-01-10 21:48:47.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=474
 permalink: "/book-review-the-whale-philip-hoare/"

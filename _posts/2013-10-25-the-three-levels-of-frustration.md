@@ -2,7 +2,6 @@
 id: 199
 title: The Three Levels Of Frustration
 date: 2013-10-25 14:00:58.000000000 -07:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=199
 permalink: "/the-three-levels-of-frustration/"

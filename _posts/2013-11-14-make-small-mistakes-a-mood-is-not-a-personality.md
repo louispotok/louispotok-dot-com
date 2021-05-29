@@ -2,7 +2,6 @@
 id: 252
 title: 'Make Small Mistakes: A Mood Is Not A Personality'
 date: 2013-11-14 01:32:25.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=252
 permalink: "/make-small-mistakes-a-mood-is-not-a-personality/"

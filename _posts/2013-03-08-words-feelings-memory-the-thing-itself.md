@@ -2,7 +2,6 @@
 id: 41
 title: Words, Feelings, Memory, The Thing Itself
 date: 2013-03-08 14:39:21.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=41
 permalink: "/words-feelings-memory-the-thing-itself/"

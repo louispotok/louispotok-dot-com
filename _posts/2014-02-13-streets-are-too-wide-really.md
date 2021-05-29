@@ -2,7 +2,6 @@
 id: 270
 title: Streets Are Too Wide…Really
 date: 2014-02-13 12:14:34.000000000 -08:00
-author: Louis Potok
 layout: post
 guid: http://louispotok.com/?p=270
 permalink: "/streets-are-too-wide-really/"
