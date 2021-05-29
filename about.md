@@ -11,6 +11,7 @@ You can reach me on [Twitter](twitter.com/louispotok) (DMs open!) or by [email](
 
 <div class="accordion"> 
 <h3>Disclosure</h3>
-<p>Some of the links on my site are through Amazon's Affiliates Program. If you make a purchase on Amazon through a link on this site, I receive a small commission. (The book does not cost you any extra.) This commission helps offset a fraction of the operating costs for the site and is very much appreciated.
+<p>Some of the links on my site are through Amazon's Affiliates Program. If you make a purchase on Amazon through a link on this site, I receive a small commission. (The book does not cost you any extra.) I set this up in 2013 because I thought it would be cool, but I've made about $12 lifetime from the program.
 </p>
 </div>
+

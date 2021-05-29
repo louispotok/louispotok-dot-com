@@ -1,13 +1,16 @@
 TODO:
 * replace "wp-content" -- how much?
 * make a favicon
-* do i need these "id=" tags?
+* do i need these "id=" tags in the front matter?
 * Use netlify instead of gh-pages?
-* add littlefoot for pretty footnotes
 * Write excerpts for every post and show them.
-* comments?
+* comments? netlify forms like gleech?
 * auto updated https://stackoverflow.com/a/33721446/3393459 eg for /now page.
 * Auto redirects through https://github.com/jekyll/jekyll-redirect-from? combo with JFM perhaps
+* Accordion troubleshooting:
+  * Verbose: Try writing a tag / new plugin for accordions
+  * I should be able to get markdown to work inside the accordions, right? why isn't it working?
+  * Similarly how do I get multiple paragraphs?
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`
