@@ -23,8 +23,8 @@ email: louispotok@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://louispotok.com
 description: Homepage for Louis Potok.
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: louispotok 
+github_username:  louispotok
 
 # Build settings
 theme: minima
