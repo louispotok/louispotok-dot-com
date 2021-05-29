@@ -10,7 +10,9 @@ categories:
 - Uncategorized
 wp_migrate: dirty
 ---
-A few years ago I read a [short book on bridges](http://www.amazon.com/gp/product/0486429954/ref=oh_details_o07_s01_i00?ie=UTF8&psc=1). I gained a very basic understanding of the history of bridges, different types that exist today, aesthetic and utilitarian principles of bridge-building; then, I annoyed the hell out of my friends for a few months by pointing out details about bridges in the field of view. I no longer do this. Broadly speaking I think I am a [_Fox, _rather than a](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox) _[Hedgehog](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)_ [1](#footnote_0_111 "The citation is to an essay by Isaiah Berlin, but I learned about the distinction in the work of Philip Tetlock"){#identifier_0_111.footnote-link.footnote-identifier-link} :
+A few years ago I read a [short book on bridges](http://www.amazon.com/gp/product/0486429954/ref=oh_details_o07_s01_i00?ie=UTF8&psc=1). I gained a very basic understanding of the history of bridges, different types that exist today, aesthetic and utilitarian principles of bridge-building; then, I annoyed the hell out of my friends for a few months by pointing out details about bridges in the field of view. I no longer do this. Broadly speaking I think I am a [_Fox, _rather than a](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox) _[Hedgehog](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)_ [^1]
+
+[^1]: The citation is to an essay by Isaiah Berlin, but I learned about the distinction in the work of Philip Tetlock
 
 _Hedgehog: _There can&#8217;t be that many insights that change the world. Deeply study one or two of them, and apply them everywhere.
 
@@ -20,7 +22,10 @@ Evidence suggests that Foxes make better predictions about the world, but I thin
 
 Every TED talk, for example, is supposed to contain an insight that changes the way you see the world. But I have trouble believing that watching a ton of TED talks is actually making you smarter or, really, better at anything. Maybe most TED talks aren&#8217;t good enough, but that only raises more questions: how do you know how to learn about a new topic? How do you even pick topics that matter? And how do you know when you have learned &#8220;enough&#8221; about a topic?
 
-If you just trust your intuition my guess is that you will pick out a few fields that you find really interesting (for arbitrary and path-dependent reasons) and then learn a lot about those. But then you get stuck in wheel ruts with diminishing marginal returns, but you keep investing mental resources by calling on the same few fields. For example, a few of the fields where I spend a lot of mental effort are[2](#footnote_1_111 "Now, I think these are some of the best fields to care about. In part this is a cognitive bias: &ldquo;I care about it, so it must be important&rdquo;. However I think they are&nbsp;actually&nbsp;important&nbsp;because they&rsquo;re &ldquo;higher level&rdquo; in some sense&ndash;if you want to think clearly, these are good ones to care about. But of course I can imagine analogous self-serving arguments for many other interest. I care a lot about cooking, and I justify it by saying &ldquo;cooking is an instinctive and primal and important source of pleasure and social bonding&rdquo;. But if you have a unique justification for every topic you like, then you haven&rsquo;t gotten anywhere for defining a general helpful rule. You&rsquo;ve just decided that you trust your intuition. Does that make you comfortable?"){#identifier_1_111.footnote-link.footnote-identifier-link}:
+If you just trust your intuition my guess is that you will pick out a few fields that you find really interesting (for arbitrary and path-dependent reasons) and then learn a lot about those. But then you get stuck in wheel ruts with diminishing marginal returns, but you keep investing mental resources by calling on the same few fields. For example, a few of the fields where I spend a lot of mental effort are[^2] ):
+
+[^2]: Now, I think these are some of the best fields to care about. In part this is a cognitive bias: &ldquo;I care about it, so it must be important&rdquo;. However I think they are&nbsp;actually&nbsp;important&nbsp;because they&rsquo;re &ldquo;higher level&rdquo; in some sense&ndash;if you want to think clearly, these are good ones to care about. But of course I can imagine analogous self-serving arguments for many other interest. I care a lot about cooking, and I justify it by saying &ldquo;cooking is an instinctive and primal and important source of pleasure and social bonding&rdquo;. But if you have a unique justification for every topic you like, then you haven&rsquo;t gotten anywhere for defining a general helpful rule. You&rsquo;ve just decided that you trust your intuition. Does that make you comfortable?
+
 
   1. Behavioral economics
   2. Presenting information clearly
@@ -36,12 +41,3 @@ But this can&#8217;t be the right rule either, because ideas are more powerful w
 I don&#8217;t have answers to all these questions, but I&#8217;ll start with a possible meta rule that seems pretty good: &#8220;_Learn about lots of different things that are distant from what you already know but pick in advance which you will spend a lot of time on. Talk with people who know more than you, both while you are learning it and when you have more thoughts about it. Think a lot about which rules to apply in which contexts._&#8221; So I&#8217;ll start.
 
 **Readers, what is a field that you know a lot about that is worthwhile for me to pick up as a hobby?**
-
-<ol class="footnotes">
-  <li id="footnote_0_111" class="footnote">
-    The citation is to an essay by Isaiah Berlin, but I learned about the distinction in the work of <a href="http://en.wikipedia.org/wiki/Philip_E._Tetlock">Philip Tetlock</a> [<a href="#identifier_0_111" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-  <li id="footnote_1_111" class="footnote">
-    Now, I think these are some of the best fields to care about. In part this is a cognitive bias: &#8220;I care about it, so it must be important&#8221;. However I think they are <em>actually</em> important because they&#8217;re &#8220;higher level&#8221; in some sense&#8211;if you want to think clearly, these are good ones to care about. But of course I can imagine analogous self-serving arguments for many other interest. I care a lot about cooking, and I justify it by saying &#8220;cooking is an instinctive and primal and important source of pleasure and social bonding&#8221;. But if you have a unique justification for every topic you like, then you haven&#8217;t gotten anywhere for defining a general helpful rule. You&#8217;ve just decided that you trust your intuition. Does that make you comfortable? [<a href="#identifier_1_111" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>

@@ -14,8 +14,9 @@ wp_migrate: dirty
 
 > The data will provide new insights to help manage urban growth, relieve traffic congestion, expand public transportation, and reduce greenhouse gas emissions.
 
-This is an interesting dataset for an urban planner. And Uber did well to anonymize to ZCTA instead of giving individual addresses.[1](#footnote_0_355 "Though some interesting data is lost here. For example, is the rider&rsquo;s destination on a busy avenue (to a store/restaurant) or a residential street (personal visit)?"){#identifier_0_355.footnote-link.footnote-identifier-link} NYC made <a href="https://medium.com/@vijayp/of-taxis-and-rainbows-f6bc289679a1" target="_blank">a mess of things</a> in June 2014 when trying to do something similar.
+This is an interesting dataset for an urban planner. And Uber did well to anonymize to ZCTA instead of giving individual addresses.[^1] NYC made <a href="https://medium.com/@vijayp/of-taxis-and-rainbows-f6bc289679a1" target="_blank">a mess of things</a> in June 2014 when trying to do something similar.
 
+[^1]: Though some interesting data is lost here. For example, is the rider&rsquo;s destination on a busy avenue (to a store/restaurant) or a residential street (personal visit)?
 But using Uber&#8217;s data to actually make decisions is ludicrous. Urban planning, like most policymaking, is about how to best distribute scarce resources. It is _political_. Look at Uber&#8217;s example uses:
 
 <div style="width: 576px" class="wp-caption aligncenter">
@@ -39,8 +40,3 @@ And, by the way, be wary of people peddling insights. If an insight held up to r
 
 **What do you think about Uber&#8217;s influence on urban policy?**
 
-<ol class="footnotes">
-  <li id="footnote_0_355" class="footnote">
-    Though some interesting data is lost here. For example, is the rider&#8217;s destination on a busy avenue (to a store/restaurant) or a residential street (personal visit)? [<a href="#identifier_0_355" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>

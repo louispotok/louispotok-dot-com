@@ -18,14 +18,10 @@ We have some hints about the process, and in 1997 a team of researchers tried to
 
 Oh, just generations of practice.
 
-There is a fundamental confusion here [[1](#footnote_0_584 "I don&rsquo;t know if Lehner himself is confused, or if he&rsquo;s imagining his audience confused."){#identifier_0_584.footnote-link.footnote-identifier-link}] What could be more mysterious and secret than a technique that takes hundreds of years of experience to develop, and that afterwards cannot be adequately communicated? Or a level of sophistication which can barely be sketched out before achieving it? To think otherwise is to fetishize knowledge while holding contempt for the process of acquiring it.
+There is a fundamental confusion here [^confusion]. What could be more mysterious and secret than a technique that takes hundreds of years of experience to develop, and that afterwards cannot be adequately communicated? Or a level of sophistication which can barely be sketched out before achieving it? To think otherwise is to fetishize knowledge while holding contempt for the process of acquiring it.
+
+[^confusion]: I don't know if Lehner himself is confused, or if he's imagining his audience confused.
 
 The _process itself_ is the amazing thing. Amazing that humans are so good at it by default (it may be the [secret to our success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)) and also that we have developed in the scientific method a version that is in some ways many times more powerful. Can you imagine Galileo seeing a space shuttle and thinking &#8220;I don&#8217;t know how they did it, but I&#8217;m sure that if I did this for several hundred years, I&#8217;d be as good as them.&#8221; It&#8217;s true, of course, but it really misses the point. If this is your mindset, what sort of technology or sophistication would impress you? What method of acquiring that knowledge would have looked like anything other than &#8220;generations of practice and experience&#8221;.
 
 James Scott&#8217;s [Seeing Like A State](https://amzn.to/2LnJuIZ) makes the forceful point that this buildup of tradition often creates implicit knowledge (metis) that cannot be gained in other ways (as far as we know) and we dismiss it at our peril.
-
-<ol class="footnotes">
-  <li id="footnote_0_584" class="footnote">
-    I don&#8217;t know if Lehner himself is confused, or if he&#8217;s imagining his audience confused. [<a href="#identifier_0_584" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>
