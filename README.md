@@ -11,6 +11,7 @@ TODO:
   * Verbose: Try writing a tag / new plugin for accordions
   * I should be able to get markdown to work inside the accordions, right? why isn't it working?
   * Similarly how do I get multiple paragraphs?
+* history widget pulling from wrong repo
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`

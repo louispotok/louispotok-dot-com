@@ -2,6 +2,7 @@
 title: /now
 layout: page
 permalink: /now/
+header: true
 ---
 
 **Last update**: 2021/05/29. This is a [now page](https://nownownow.com/abouthttps://nownownow.com/about).

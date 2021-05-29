@@ -31,11 +31,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# be careful with the spacing here, YAML is so annoying
 defaults:
-        - scope:
-                path: "assets/pdf"
-                values:
-                        pdf: true
+  - scope:
+          path: "assets/pdf"
+    values:
+                pdf: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

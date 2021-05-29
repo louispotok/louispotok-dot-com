@@ -4,6 +4,7 @@ layout: page
 permalink: "/about/"
 id: 2
 guid: http://louispotok.com/?p=2
+header: true
 ---
 I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link blog.md %}).
 
