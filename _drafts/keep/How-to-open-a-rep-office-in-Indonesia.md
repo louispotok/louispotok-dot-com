@@ -19,3 +19,9 @@ Glossary:
 * Letter of Reference Request: &#8220;I, the CEO, would like a Letter of Reference.&#8221;  
 * Letter of Reference: &#8220;I, the IIPC, recommend allowing this company to create a Rep Office.&#8221; (Can maybe be issued by others).  
 * Incorporation docs: you should already have these.
+
+From IIPC email 21/05/22: 
+
+> As you may aware, Indonesia will implement the risk-based business licensing started on 2 June 2021 to simplify the process, so that a low-risk business activity (including KPPA) will have much simpler requirements and procedures, different with a high-risk business activity. 
+> 
+> Prior to that, BKPM has issued BKPM Regulation 4/2021 on Guidelines and Procedures for Risk-Based Business Licensing Services and Investment Facilities. There is a slight change in the provisions on KPPA and simplification on the requirements based on the regulation (see attachment). Legalized LOI, LOA and LOS also LOR are still required.
