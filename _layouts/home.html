@@ -11,6 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <p class="rss-subscribe">You can subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>. (<a href="http://aboutfeeds.com/">What's a feed?</a>)</p>
     <ul class="post-list">
       {%- for post in site.posts limit:page.n_posts -%}
       <li>
@@ -28,7 +29,6 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>. (<a href="http://aboutfeeds.com/">What's a feed?</a>)</p>
   {%- endif -%}
 
 </div>
