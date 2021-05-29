@@ -7,8 +7,8 @@ list_title: Recent Posts
 Hi, welcome to Capillary Action.
 
 I'm Louis Potok. 
-Right now, the main thing to do here is read my [blog]({{site.baseurl}}{% link blog.md %}). 
-You can also read more [about me]({{site.baseurl}}{% link about.md %}) or see what I'm up to [now]({{site.baseurl}}{% link now.md %}).
+Right now, the main thing to do here is read my [blog]({{site.baseurl}}{% link pages/blog.md %}). 
+You can also read more [about me]({{site.baseurl}}{% link pages/about.md %}) or see what I'm up to [now]({{site.baseurl}}{% link pages/now.md %}).
 
 <div class="accordion">
 <h3>What's with the name?  </h3>

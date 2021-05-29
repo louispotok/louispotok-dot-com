@@ -7,6 +7,7 @@ TODO:
 * comments? netlify forms like gleech?
 * auto updated https://stackoverflow.com/a/33721446/3393459 eg for /now page.
 * Auto redirects through https://github.com/jekyll/jekyll-redirect-from? combo with JFM perhaps
+  * Also note: the URLs are different, your nb-blog urls are `YYYY/MM/DD/something-something.html` and your other posts are just `something/`
 * Accordion troubleshooting:
   * Verbose: Try writing a tag / new plugin for accordions
   * I should be able to get markdown to work inside the accordions, right? why isn't it working?

@@ -38,6 +38,14 @@ defaults:
           path: "assets/pdf"
     values:
                 pdf: true
+  - scope:
+          path: "_posts"
+    values:
+                layout: "post"
+  - scope:
+          path: "pages"
+    values:
+                layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
