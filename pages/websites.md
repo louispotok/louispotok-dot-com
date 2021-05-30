@@ -3,6 +3,7 @@ title: Eternal Websites
 visible: true
 nb_migrate: dirty
 permalink: "/websites/"
+summary: The web is mostly an ephemeral medium but some sites have preserved their appearance and utility for many years. Reflections, and a list.
 ---
 The modern web is [broken](https://macwright.com/2020/08/22/clean-starts-for-the-web.html). We live in a series of walled gardens maintained by a handful of giant companies. These remove most of our agency as both producers and consumers by forcing us into certain patterns of interaction. They reinforce the harmful binary distinction between the two, as opposed to the goal of [end-user programming](https://www.inkandswitch.com/end-user-programming.html). 
 

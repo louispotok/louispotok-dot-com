@@ -3,6 +3,8 @@ title: /now
 layout: page
 permalink: /now/
 header: true
+visible: true
+summary: What I'm up to now, as of May 2021.
 ---
 
 **Last update**: 2021/05/29. This is a [now page](https://nownownow.com/abouthttps://nownownow.com/about).

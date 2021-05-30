@@ -2,6 +2,8 @@
 layout: page
 permalink: "/stats/"
 title: Stats
+visible: true
+summary: Basic website stats. Right now, just a count of posts by year.
 ---
 
 The amount I write has varied a lot over the years! Post count:

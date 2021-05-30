@@ -5,6 +5,8 @@ permalink: "/about/"
 id: 2
 guid: http://louispotok.com/?p=2
 header: true
+visible: true
+summary: Basic overview of who I am and what this site is all about.
 ---
 I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}). Some basic stats about the blog are available on [the stats page]({% link pages/stats.md %}).
 
@@ -13,7 +15,7 @@ You can reach me on [Twitter](https://twitter.com/louispotok) (DMs open!) or by 
 <div class="accordion"> 
 <h3>Bugs?</h3>
 <p>
-If you spot typos, broken links, etc, please let me know! In particular, some of the content is [migrated]({% link pages/colophon.md %}#history-and-migration) from an older Wordpress version of this blog, so older posts in particular may have formatting errors, etc.
+If you spot typos, broken links, etc, please let me know! In particular, some of the content is [migrated]({% link pages/colophon.md %}#history-and-migration) from an older Wordpress version of this blog, so older posts may have formatting errors or worse.
 </p>
 </div>
 
@@ -26,10 +28,11 @@ If you spot typos, broken links, etc, please let me know! In particular, some of
 
 <br>
 
-Some other pages on this site:
+Other pages on this site:
 
 {% for page in site.pages %}
 {% if page.visible == true %}
-* [{{page.title}}]({{page.url}})
+<h4>[{{page.title}}]({{page.url}})</h4>
+<p style="margin-left:20px"><em>{{page.summary}}</em></p>
 {% endif %}
 {% endfor %}
