@@ -7,7 +7,9 @@ guid: http://louispotok.com/?p=130
 permalink: "/africa-reproductive-strategies-and-the-value-of-gold/"
 categories:
 - Uncategorized
-wp_migrate: dirty
+wp_migrate: clean
+quality: 4
+summary: Two tidbits from John Reader's Africa.
 ---
 Partway through John Reader&#8217;s [Africa: A Biography of a Continent](http://www.amazon.com/Africa-Biography-Continent-John-Reader/dp/067973869X) I&#8217;ve been disappointed in some superficial or misleading sections about science and economics. But the book is definitely worth a read if you have broad interests and I wanted to post about two topics that caught my interest.
 

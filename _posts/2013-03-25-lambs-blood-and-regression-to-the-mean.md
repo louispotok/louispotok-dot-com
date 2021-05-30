@@ -7,7 +7,8 @@ guid: http://louispotok.com/?p=75
 permalink: "/lambs-blood-and-regression-to-the-mean/"
 categories:
 - Uncategorized
-wp_migrate: dirty
+wp_migrate: clean
+quality: 4
 ---
 Q: Is smearing lamb&#8217;s blood over my doorway unnecessary?
 

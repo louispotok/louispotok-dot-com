@@ -9,7 +9,8 @@ categories:
 - Economics
 - Experiments
 - Politics
-wp_migrate: dirty
+wp_migrate: clean
+quality: 7
 ---
 The common thinking is that the USA benefits by having many states because they will have different policies and we can thereby learn which policies are most effective.[^1] This idea is intuitive but actually I think the opposite is the case: as government gets larger it becomes more (theoretically) capable of doing the kind of experimentation that leads to better policy.
 

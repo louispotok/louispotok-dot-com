@@ -3,7 +3,7 @@ TODO:
 * make a favicon
 * do i need these "id=" tags in the front matter?
 * Use netlify instead of gh-pages?
-* Write excerpts for every post and show them.
+* Write excerpts for every post and show them (using `summary`).
 * comments? netlify forms like gleech?
 * auto updated https://stackoverflow.com/a/33721446/3393459 eg for /now page.
 * Auto redirects through https://github.com/jekyll/jekyll-redirect-from? combo with JFM perhaps
@@ -13,6 +13,8 @@ TODO:
   * I should be able to get markdown to work inside the accordions, right? why isn't it working?
   * Similarly how do I get multiple paragraphs?
 * history widget pulling from wrong repo
+* many links are still <a> tags, fix?
+* Finish cleaning up wp_migrate tags?
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`

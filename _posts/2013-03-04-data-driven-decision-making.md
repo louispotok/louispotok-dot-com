@@ -7,7 +7,7 @@ guid: http://louispotok.com/?p=27
 permalink: "/data-driven-decision-making/"
 categories:
 - Uncategorized
-wp_migrate: dirty
+wp_migrate: clean
 ---
 I spent the weekend at a conference about the use of statistical analysis in sports decision-making. Among other things, we talked about player evaluation, the role of randomness, in-game coaching decisions, and optimal risk taking based on game situation. All of these through the lens of using data to improve how we act.
 

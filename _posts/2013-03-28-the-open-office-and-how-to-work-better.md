@@ -8,7 +8,9 @@ permalink: "/the-open-office-and-how-to-work-better/"
 categories:
 - Architecture
 - Design
-wp_migrate: dirty
+wp_migrate: clean
+Summary: Summary of a BBC article on the open office
+Quality: 2
 ---
 The [open office plan](http://www.bbc.co.uk/news/magazine-21878739) is older than you think:
 

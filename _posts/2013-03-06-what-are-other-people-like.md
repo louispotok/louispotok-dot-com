@@ -7,7 +7,7 @@ guid: http://louispotok.com/?p=37
 permalink: "/what-are-other-people-like/"
 categories:
 - Uncategorized
-wp_migrate: dirty
+wp_migrate: clean
 ---
 How do we know about the internal lives of other people?
 

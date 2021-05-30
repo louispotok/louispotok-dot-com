@@ -7,7 +7,7 @@ guid: http://louispotok.com/?p=23
 permalink: "/pay-attention-to-paying-attention/"
 categories:
 - Uncategorized
-wp_migrate: dirty
+wp_migrate: clean
 ---
 The primary commodity in the world is attention. This is the resource whose scarcity matters most&#8211;every day, and as it adds up, in your life, in the lives of everyone you know, in the history of the world, in the world itself. The question then becomes: what should you focus your attention on? What issues or problems or features of the world are most worth your attention? You should train yourself to only pay attention to things that matter and things where your attention will pay off and things where your attention will luxuriate and amplify and be drawn to other things that you now realize matter.
 

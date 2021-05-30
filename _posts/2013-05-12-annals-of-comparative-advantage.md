@@ -8,7 +8,9 @@ permalink: "/annals-of-comparative-advantage/"
 categories:
 - Economics
 - History
-wp_migrate: dirty
+wp_migrate: clean
+quality: 5
+summary: To a first approximation it's okay and good for a large percent of your population to be working in a single economicaly-productive activity, even if it is overseas.
 ---
 In my [last post](http://louispotok.com/africa-reproductive-strategies-and-the-value-of-gold/) I talked about two interesting things I learned from [John Reader&#8217;s Africa: A Biography of a Continent.](http://www.amazon.com/Africa-Biography-Continent-John-Reader/dp/067973869X) I also mentioned that the book is sometimes infuriatingly superficial or wrongheaded in its treatment of science or economics. Let&#8217;s look at an example:
 
