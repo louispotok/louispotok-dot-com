@@ -15,6 +15,7 @@ TODO:
 * history widget pulling from wrong repo
 * many links are still <a> tags, fix?
 * Finish cleaning up wp_migrate tags?
+* Better pagelist on about page
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`

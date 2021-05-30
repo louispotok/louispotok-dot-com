@@ -30,6 +30,9 @@ github_username:  louispotok
 theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
+kramdown:
+        parse_block_html: true
 
 
 # be careful with the spacing here, YAML is so annoying

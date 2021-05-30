@@ -11,19 +11,25 @@ I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}
 You can reach me on [Twitter](twitter.com/louispotok) (DMs open!) or by [email](mailto:{{site.email}}).
 
 <div class="accordion"> 
-<h3>Disclosure</h3>
-<p>Some of the links on my site are through Amazon's Affiliates Program. If you make a purchase on Amazon through a link on this site, I receive a small commission. (The book does not cost you any extra.) I set this up in 2013 because I thought it would be cool, but I've made about $15 lifetime from the program.
+<h3>Bugs?</h3>
+<p>
+If you spot typos, broken links, etc, please let me know! In particular, some of the content is [migrated]({% link pages/colophon.md %}#history-and-migration) from an older Wordpress version of this blog, so older posts in particular may have formatting errors, etc.
 </p>
 </div>
+
+<div class="accordion"> 
+  <h3>Disclosure
+  </h3>
+  <p>Some of the links on my site are through Amazon's Affiliates Program. If you make a purchase on Amazon through a link on this site, I receive a small commission. (The book does not cost you any extra.) I set this up in 2013 because I thought it would be cool, but I've made about $15 lifetime from the program.
+  </p>
+</div>
+
 <br>
-<div>
-<p>Some other pages on this site:
-<ul>
+
+Some other pages on this site:
+
 {% for page in site.pages %}
-  {%- if page.visible == true -%}
-   <li><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>
- {%- endif -%}
+{% if page.visible == true %}
+* [{{page.title}}]({{page.url}})
+{% endif %}
 {% endfor %}
-</ul>
-</p>
-</div>
