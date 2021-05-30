@@ -16,6 +16,7 @@ TODO:
 * many links are still <a> tags, fix?
 * Finish cleaning up wp_migrate tags?
 * Better pagelist on about page
+* quotebacks doesn't work inside accordion: head->desk
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`
