@@ -8,7 +8,7 @@ header: true
 ---
 I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}).
 
-You can reach me on [Twitter](twitter.com/louispotok) (DMs open!) or by [email](mailto:{{site.email}}).
+You can reach me on [Twitter](https://twitter.com/louispotok) (DMs open!) or by [email](mailto:{{site.email}}).
 
 <div class="accordion"> 
 <h3>Bugs?</h3>
