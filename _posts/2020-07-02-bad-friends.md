@@ -43,57 +43,43 @@ The three arguments analyzed are as follows:
 1. Abetting view: you are abetting moral transgressions, and thereby guilty yourself.
 1. The risk view: it is imprudent to be friends with a bad person, since they may harm you.
 
-<details>
-<summary>
+<div class="accordion">
+<h3>
 Desert View
-</summary>
-<p>
+</h3>
+<div>
 You are giving the friend something they don't deserve. Isserow says this is wrong, because we often give our friends things they don't deserve, such as sympathy and forgiveness. We don't want to be moral book-keepers to our friend.
-</p>
-<p>
-
 My response: this ignores the changing context between "becoming someone's friend" and "giving them good things within a friendship." Deciding to *become* someone's friend is completely different from deciding to *stay* their friend. We have obligations, moral and otherwise, to our friends that we *do not have* to strangers-who-might-be-friends.
-</p>
-<p>
 
 Isserow is attacking the "weak form" of the desert view, but the strong one is much more interesting.
-</p>
-<p>
 
 It's also not obvious to me that "giving to the undeserving" is a vice. Indeed, I am more likely to count excessive generosity as a virtue.
-</p>
-</details>
+</div>
 
-<details>
-<summary>
+
+<h3>
 Abetting View
-</summary>
-<p>
+</h3>
+<div>
 Louise perceives her friendships as constituting an endorsement of her personhood. "I must be a decent person, look at all these great friends who willingly associate with me." In the absence of friends, she might be forced into reflection about her character. So Thelma's action contributes to the probability of Louise staying bad, or even getting worse, causing harm in expected value terms. 
-</p>
-<p>
+
 Isserow basically acknowledges this in in qualitative terms but denies that it holds to any "significant or morally interesting degree." We are not, for the most part, responsible for our friends' bad acts, just as we are not for their good acts. And we can attenuate the problem by being scolds: reproaching our friends.
-</p>
-<p>
+
 I think Isserow here doesn't fully reckon with the influence that people have over their friends. You tend over time to do the same thing as your friends, to act and think in similar ways. Moral responsibility comes with increasing influence. But this can act slowly. It seems to me that entering into a friendship with a bad person involves taking on a moral debt: in the near future, Thelma will be responsible for some harms because of her influence. But as her influence over Louise grows and exerts itself, and as Louise improves, Thelma repays that debt with interest.
-</p>
-<p>
 
 Isserow goes on in a later section to say that there is relevant harm to other people through this friendship, but in an *expressive* way -- we have a duty to hold particular attitudes towards some things, and friendship is an expressive act.
-</p>
-</details>
+</div>
 
-<details>
-<summary>
+<h3>
 Risk View
-</summary>
-<p>
+</h3>
+
+<div>
 Isserow here first lines up and knocks down two straw men. First, Louise may shoot Thelma tomorrow (or rob her, or cheat her, or whatever). But this is a practical risk, not a moral one. Second, Thelma's reputation may suffer because she is friends with Louise. This too, is mostly a practical risk.
-</p>
-<p>
+
 Then we get to moral risk, which is more interesting. The friendship may require Thelma to do something immoral. Isserow brushes this off by saying that all friendships involve moral risk, so this doesn't "get to the heart" of why it's wrong to befriend a bad person. I think the degree here matters quite a bit -- surely exposure to a higher level of moral risk is bad.
-</p>
-</details>
+</div>
+</div>
 
 ### The main argument
 
