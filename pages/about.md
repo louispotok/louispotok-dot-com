@@ -6,7 +6,7 @@ id: 2
 guid: http://louispotok.com/?p=2
 header: true
 ---
-I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}).
+I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}). Some basic stats about the blog are available on [the stats page]({% link pages/stats.md %}).
 
 You can reach me on [Twitter](https://twitter.com/louispotok) (DMs open!) or by [email](mailto:{{site.email}}).
 
