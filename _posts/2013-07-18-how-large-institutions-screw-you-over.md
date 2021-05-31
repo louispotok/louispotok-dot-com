@@ -18,13 +18,7 @@ This could be due to malice. After all, there must be a profit-maximizing point 
 
 But either way, the bank is earning money because it is cheaper for them to catch mistakes than it is for you. They can have one full-time person looking for mistakes in hundreds or thousands of similar accounts; in other words, _large institutions have_ _economies of scale of attention_.
 
-<div id="attachment_640" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://louispotok.com/wp-content/uploads/2013/07/bank-error.jpg"><img aria-describedby="caption-attachment-640" loading="lazy" class="size-medium wp-image-640" src="http://louispotok.com/wp-content/uploads/2013/07/bank-error-300x191.jpg" alt="&quot;bank error in your favor&quot;" width="300" height="191" srcset="https://louispotok.com/wp-content/uploads/2013/07/bank-error-300x191.jpg 300w, https://louispotok.com/wp-content/uploads/2013/07/bank-error.jpg 406w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-640" class="wp-caption-text">
-    Unlikely!
-  </p>
-</div>
+{% include image.html url="img/bank-error.jpg" description="Unlikely! (No source)." %}
 
 Two possible solutions to this:
 

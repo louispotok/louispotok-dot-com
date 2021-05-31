@@ -17,6 +17,10 @@ TODO:
 * Finish cleaning up wp_migrate tags?
 * Better pagelist on about page
 * quotebacks doesn't work inside accordion: head->desk
+* check if I had any subscribers on Mailchimp (need SMS 2FA)
+* twitter embed? see /whiteness
+* file hosting outside git?
+
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`

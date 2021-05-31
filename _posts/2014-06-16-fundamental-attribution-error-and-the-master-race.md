@@ -14,13 +14,8 @@ I just re-watched Hitchcock&#8217;s [Lifeboat](http://www.amazon.com/gp/product/
 
 [Lifeboat](http://www.amazon.com/gp/product/B000UL087O/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000UL087O&linkCode=as2&tag=capilactio-20) is the story of an American merchant marine ship sunk by a German U-Boat during WWII. A few Americans find a lifeboat and pick up a German sailor amid the wreckage. They are short on food and water and are forced to row towards safety. For days, while the Americans bicker in thirst and hunger under a hot sun, German &#8220;Willy&#8221; steadfastly pulls oar.
 
-<div style="width: 410px" class="wp-caption alignnone">
-  <a href="http://www.cineoutsider.com/reviews/pix/l/li/lifeboat5.jpg"><img loading="lazy" src="http://www.cineoutsider.com/reviews/pix/l/li/lifeboat5.jpg" alt="" width="400" height="300" /></a>
-  
-  <p class="wp-caption-text">
-    The Nazi in Question. (Image found on http://www.cineoutsider.com/reviews/bluray/l/lifeboat.html)
-  </p>
-</div>
+ 
+{% include image.html url="img/lifeboat5.jpg" description="The Nazi in question." source="http://www.cineoutsider.com/reviews/bluray/l/lifeboat.html" %}
 
 The Americans come to see him as a superman. One character points out the contrast: &#8220;He&#8217;s made of iron, while we&#8217;re made of flesh and blood. Hungry flesh and blood!&#8221; Willy instead credits his endurance to &#8220;clean living&#8221;.
 

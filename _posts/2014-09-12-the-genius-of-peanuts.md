@@ -7,13 +7,13 @@ guid: http://louispotok.com/?p=328
 permalink: "/the-genius-of-peanuts/"
 categories:
 - Literature
-wp_migrate: dirty
+wp_migrate: clean
 ---
 In the NYRB of 1985, [Umberto Eco explores Peanuts](http://www.nybooks.com/articles/archives/1985/jun/13/on-krazy-kat-and-peanuts/) (and Krazy Kat, which I&#8217;ve never read).
 
 I find that literary criticism is at its worst when it makes an argument from authority and deep knowledge: &#8220;I am right because I am important and by the way look at this list of books I&#8217;ve read!&#8221;
 
-[<img loading="lazy" class="alignnone" src="http://i.huffpost.com/gen/1384091/thumbs/o-SPIKE-570.jpg?1" alt="Brutal." width="570" height="174" />](http://i.huffpost.com/gen/1384091/thumbs/o-SPIKE-570.jpg?1)
+{% include image.html url="img/peanuts.jpg" description="Relatable." source="http://i.huffpost.com/gen/1384091/thumbs/o-SPIKE-570.jpg" %}
 
 On the other hand I love literary criticism which argues out of a sense of intimacy. Umberto Eco wrote this essay because he _really loves Peanuts_ and it&#8217;s important to him that you come to love Peanuts, and for the right reasons. This kind of enthusiasm is infectious, which is why Harold Bloom&#8217;s [Anatomy of Influence](http://www.amazon.com/gp/product/0300181442/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0300181442&linkCode=as2&tag=capilactio-20&linkId=FODGCQQNAKHGQMQ7) inspired my new Shakespeare book club. All of which is to say I want to go read [some Charlie Brown adventures.](http://www.amazon.com/gp/product/1560978686/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1560978686&linkCode=as2&tag=capilactio-20&linkId=YFMKOLRSJL4H3Z5Z)
 

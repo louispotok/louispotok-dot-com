@@ -22,7 +22,7 @@ Keyboards are specialized text-entry devices. It&#8217;s easy to forget this 
 
 Good history museums remind you that history is not a linear, predetermined progression. Natural history museums, for example, are fascinating not just because we can see the apes from which we descended but the vastly stranger evolutionary dead-ends. I feel the same way at the [Computer History Museum](http://www.computerhistory.org/). Looking back there seems to be a sort of Cambrian explosion in the late 60&#8217;s/early 70s where the fundamentals of our computers were beginning to fix in place, but the world was still wide open. This was when the [mouse was invented](http://www.dougengelbart.org/firsts/mouse.html), along with stranger beasts like the &#8220;chorded keyboard&#8221;, where you play different letters with different combinations of keypresses:
 
-![](http://img.tfd.com/cde/_BAT2.JPG) 
+{% include image.html url="img/BAT2.jpg" description="A BAT2 chorded keyboard." source="https://www.infogrip.com/bat-keyboard.html" %}
 
 But even this is just a text input device. The keyboard is a workhorse because we have abstracted the computer towards it &#8211; because we had keyboards before computers.
 

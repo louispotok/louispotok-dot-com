@@ -14,13 +14,8 @@ wp_migrate: dirty
 ---
 Almost a month ago Bill de Blasio, Democratic nominee for NYC mayor, [tweeted something](https://twitter.com/deBlasioNYC/status/371689879811670018) that made me angry. If I were to donate to his primary campaign, he (or a 19 year old unpaid intern) proclaimed, my contribution would be matched 6 to 1. So now we know that de Blasio &#8212; [unlike Barack Obama](http://www.nytimes.com/2012/11/13/health/dream-team-of-behavioral-scientists-advised-obama-campaign.html?pagewanted=all) &#8212; is not running his campaign according to the latest research findings.
 
-<div id="attachment_193" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://louispotok.com/wp-content/uploads/2013/09/DiBlasio.jpg"><img aria-describedby="caption-attachment-193" loading="lazy" class="size-medium wp-image-193" alt="Bad economics from a mayoral hopeful." src="http://louispotok.com/wp-content/uploads/2013/09/DiBlasio-300x186.jpg" width="300" height="186" srcset="https://louispotok.com/wp-content/uploads/2013/09/DiBlasio-300x186.jpg 300w, https://louispotok.com/wp-content/uploads/2013/09/DiBlasio.jpg 495w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p id="caption-attachment-193" class="wp-caption-text">
-    Bad economics from a mayoral hopeful.
-  </p>
-</div>
+
+{% include image.html url="img/DiBlasio.jpg" description="Bad economics from a mayoral hopeful. (Screenshot by the author.)" %}
 
 Political fundraising has long been an inexact science, so in the mid 2000s, two economists partnered up with a US non-profit and [ran an experiment](http://www.nber.org/papers/w12338) about what works best when a charity is raising money. Specifically, they looked at the effect of matching funds. Are people actually more likely to donate if their donations are matched? Their findings were surprising.
 
