@@ -50,4 +50,4 @@ As of today (5/30/2021) there are still some issues with the site due to the mig
 * Inconsistent urls: the wordpress posts have nice `louispotok.com/post-title` urls, while the notebook posts have `louispotok.com/YYYY/MM/DD/post-title.html` urls.
 * There were 11 comments on the wordpress site which are now missing. Apologies to Sam, Gideon, Ohad and Matt. Some day I may add commenting on this site and reinstate those comments.
 * I have not yet cleaned up the formatting from all the wordpress posts.
-
+* The history on each page is inaccurate, since there are no commits from before the migration/merge.
