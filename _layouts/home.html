@@ -14,19 +14,7 @@ layout: default
     <p class="rss-subscribe">You can subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>. (<a href="http://aboutfeeds.com/">What's a feed?</a>)</p>
     <ul class="post-list">
       {%- for post in site.posts limit:page.n_posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <p style="margin-left:20px"><em>{{post.summary}}</em></p>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+{% include post-list-entry.html post=post %}
       {%- endfor -%}
     </ul>
 
