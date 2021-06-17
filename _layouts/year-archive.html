@@ -3,8 +3,6 @@ layout: default
 ---
 <h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
 
-{% include post-list.html %}
-
 <ul class="post-list">
 {% for post in page.posts %}
 {% include post-list-entry.html post=post %}
