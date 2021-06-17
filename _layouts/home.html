@@ -21,6 +21,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <p style="margin-left:20px"><em>{{post.summary}}</em></p>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
