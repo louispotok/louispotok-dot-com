@@ -3,6 +3,7 @@ categories: book-review
 isbn: 9780140256352
 bookwyrm-review-id: 14991
 nb_migrate: dirty
+summary: The greatest Indonesian novel ever written.
 ---
 
 

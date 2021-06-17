@@ -3,6 +3,7 @@ categories: book-review
 isbn: 9780811225649
 bookwyrm-review-id: 15668
 nb_migrate: dirty
+summary: Violence and masculine trauma and impotence in rural Indonesia.
 ---
 
 Review of Vengeance Is Mine, All Others Pay Cash by Eka Kurniawan.

@@ -1,5 +1,6 @@
 ---
 nb_migrate: dirty
+summary: Nitty-gritty instructions for setting up self-hosted website analytics with Matomo.
 ---
 
 I recently set up Matomo to track visits to recoolit.com. Here's how I did it.

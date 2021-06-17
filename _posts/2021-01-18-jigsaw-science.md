@@ -1,5 +1,6 @@
 ---
 nb_migrate: dirty
+summary: Jigsaw solving as a microcosm for science.
 ---
 
 Ways in which doing a jigsaw puzzle is like science:

@@ -1,5 +1,6 @@
 ---
 nb_migrate: dirty
+summary: Retrospectively evaluate luck against a full counterfactual.
 ---
 
 Our commonsense notion of luck is flawed. "You make your own luck" is closer, but needs some unpacking.

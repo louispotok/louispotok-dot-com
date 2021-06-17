@@ -1,6 +1,7 @@
 ---
 categories: book-review
 nb_migrate: dirty
+summary: Being a film director is hard, and has a lot in common with business management.
 ---
 
 [Making Movies](https://amzn.to/2M6Dqbg), by Sidney Lumet

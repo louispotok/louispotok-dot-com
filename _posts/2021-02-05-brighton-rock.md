@@ -3,6 +3,7 @@ categories: book-review
 isbn: 9780140184921
 bookwyrm-review-id: 15078
 nb_migrate: dirty
+summary: Live for simple pleasures and take no shame in lust.
 ---
 
 
