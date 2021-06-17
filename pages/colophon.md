@@ -37,7 +37,7 @@ This site is built with Jekyll and hosted on Netlify. It uses the minima theme. 
 
 I have also lifted a lot from the excellent [argmin gravitas](https://www.gleech.org/).
 
-The website lives in [this repository](https://github.com/louispotok/louispotok-dot-com). It's private as of this writing (May 2021) but I do intend to make it public soon. If you want to look at the source but it's still closed, please let me know and I'll open it up!
+The website lives in [this repository](https://github.com/louispotok/louispotok-dot-com).
 
 
 ## History and migration
