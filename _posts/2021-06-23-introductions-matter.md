@@ -29,7 +29,9 @@ So how do you get to know someone? This is exactly one of those things that you 
 
 ## Three Theories of Introductions
 
-Let's say Alice knows Bob, who knows Charlotte, but Alice doesn't know Charlotte. `A <> B <> C` but `A <!> C`. So Alice asks Bob for an introduction. 
+Let's say Alice knows Bob, who knows Charlotte, but Alice doesn't know Charlotte. [^notation]. So Alice asks Bob for an introduction. 
+
+[^notation]: If you want some mathy notation for this, `A <> B <> C` but `A <!> C`. 
 
 Under our model, why does Charlotte bother talking to Alice? I see three main reasons. In most situations you are probably dealing with a mix of all three. However, note that they suggest different strategies along some dimensions, so it's important to figure out which is dominant in the given context.
 
