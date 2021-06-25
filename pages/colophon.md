@@ -46,8 +46,7 @@ Louispotok.com was originally a Wordpress blog, hosted on cPanel, with domain ma
 
 In May 2021 I decided to combine the two sites into a single unified blog. I used Ben Balter's [Wordpress-to-Jekyll exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter). It mostly worked fine, though some formatting was mangled in the transition, and the tool also, bizarrely, [strips out all youtube links](https://github.com/benbalter/wordpress-to-jekyll-exporter/issues/222).
 
-As of today (5/30/2021) there are still some issues with the site due to the migration:
+As of today (6/26/2021) there are still some issues with the site due to the migration:
 * Inconsistent urls: the wordpress posts have nice `louispotok.com/post-title` urls, while the notebook posts have `louispotok.com/YYYY/MM/DD/post-title.html` urls.
-* There were 11 comments on the wordpress site which are now missing. Apologies to Sam, Gideon, Ohad and Matt. Some day I may add commenting on this site and reinstate those comments.
 * I have not yet cleaned up the formatting from all the wordpress posts.
 * The history on each page is inaccurate, since there are no commits from before the migration/merge.
