@@ -20,7 +20,7 @@ TODO:
 * check if I had any subscribers on Mailchimp (need SMS 2FA)
 * twitter embed? see /whiteness
 * file hosting outside git?
-
+* sidenotes: https://www.gwern.net/Sidenotes
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`
