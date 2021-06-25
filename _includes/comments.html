@@ -1,4 +1,5 @@
 <!-- taken from https://github.com/g-leech/argmin-gravitas/blob/77e179941a61f54565ce3d88d5e304d1908982e4/_includes/comments.html -->
+<!-- modified to be one big form with a value for slug -->
 {% assign slug = page.title | slugify %}
 
 
@@ -21,7 +22,8 @@
   <div style="padding:20px; padding-bottom: 80px; text-align: center;">
   <big>Post a comment:</big><br><br>
 
-    <form name="{{slug}}" netlify>
+    <form name="comments" netlify>
+            <p> <input type="text" name="slug" value="{{slug}}" hidden="true"></p>
       <p>
         <label>Name <input type="text" name="name" /></label>
       </p>
