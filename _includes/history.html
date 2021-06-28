@@ -2,13 +2,7 @@
 <!-- Thanks Ryan! -->
 
 <style type="text/css">
-.post-history {
-	margin-bottom: 10px;
-}
 
-.post-history h3 {
-	margin: 0 0 10px 0;
-}
 
 .history-entry {
 	border: 1px solid #ccc;
@@ -31,9 +25,11 @@
 	font-weight: bold;
 }
 </style>
-<div id="post_history" class="post-history" style="display: none">
-        <h3>Revision History (<a href="{% link _posts/2020-10-11-revision-history.md %}">About</a>)</h3>
-
+<div class="accordion" >
+        <h3>Revision History </h3>
+        <div id="post_history"  >
+                <p>(<a href="{% link _posts/2020-10-11-revision-history.md %}">About</a>)</p>
+        </div>
 </div>
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.0/moment.min.js"></script>
 <script>
@@ -75,8 +71,8 @@
 			});
 
 			html.forEach(revision => post_history.innerHTML += revision);
-			post_history.style.display = 'block';
 		}
 	};
 })();
 </script>
+</div>
