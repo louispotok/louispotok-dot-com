@@ -10,9 +10,14 @@ summary: Basic overview of who I am and what this site is all about.
 ---
 I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}). Some basic stats about the blog are available on [the stats page]({% link pages/stats.md %}).
 
-You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok) (DMs open!). I love getting messages from friendly strangers, so don't be shy. 
+You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok) (DMs open!). I love getting messages from friendly strangers, so don't be shy. Feel free to:
+* Tell me if you had a strong reaction, positive or negative, to something I wrote.
+* Ask me a favor -- I'll gladly help if I can.
+* Tell me what you're working on and why you're passionate about it.
+* Ask for advice.
+* Send or request reading suggestions.
 
-But sometimes the written word is not enough, and a free-flowing conversation is more fun or goes deeper. If you like what's here we'd probably enjoy chatting, so go ahead and [book some time](https://calendly.com/louispotok/30-minute-meeting) on my calendar -- even (especially!) if we're strangers.
+Sometimes it's nice to chat in real time too. If you like what's here we'd probably enjoy talking, so go ahead and [book some time](https://calendly.com/louispotok/30-minute-meeting) on my calendar -- even (especially!) if we're strangers.
 
 <div class="accordion"> 
 <h3>Bugs?</h3>
