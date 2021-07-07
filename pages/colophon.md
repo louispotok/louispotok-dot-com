@@ -40,6 +40,7 @@ For websites, it's usually information about the technology used to create the w
 * The website lives in [this repository](https://github.com/louispotok/louispotok-dot-com).
 * Many small technical decisions are lifted or inspired from the excellent [argmin gravitas](https://www.gleech.org/).
 
+If you want to talk about any of the decisions I made, or are looking for help doing something similar, I'm happy to help.
 
 ## History and migration
 
