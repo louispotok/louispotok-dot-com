@@ -4,6 +4,7 @@ published: false
 
 
 TODO:
+* make it faster - pagespeed 78 :-( 
 * Write excerpts for every post and show them (using `summary`).
 * Better pagelist on about page and "quality" tags for "best posts" on home.
 * replace "wp-content" -- how much?
