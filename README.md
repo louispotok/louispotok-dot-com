@@ -2,9 +2,7 @@ TODO:
 * replace "wp-content" -- how much?
 * make a favicon
 * do i need these "id=" tags in the front matter?
-* Use netlify instead of gh-pages?
 * Write excerpts for every post and show them (using `summary`).
-* comments? netlify forms like gleech?
 * auto updated https://stackoverflow.com/a/33721446/3393459 eg for /now page.
 * Auto redirects through https://github.com/jekyll/jekyll-redirect-from? combo with JFM perhaps
   * Also note: the URLs are different, your nb-blog urls are `YYYY/MM/DD/something-something.html` and your other posts are just `something/`
@@ -15,7 +13,7 @@ TODO:
 * history widget pulling from wrong repo
 * many links are still <a> tags, fix?
 * Finish cleaning up wp_migrate tags?
-* Better pagelist on about page
+* Better pagelist on about page and "quality" tags for "best posts" on home.
 * quotebacks doesn't work inside accordion: head->desk
 * check if I had any subscribers on Mailchimp (need SMS 2FA)
 * twitter embed? see /whiteness
