@@ -1,0 +1,6 @@
+# this will be the default for every branch other than the production branch
+[build.environment]
+  JEKYLL_ENV="development"
+# only for production branch, override to production
+[context.production.environment]
+  JEKYLL_ENV="production"
