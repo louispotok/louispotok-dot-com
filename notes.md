@@ -4,6 +4,9 @@ published: false
 
 
 TODO:
+* finish adding blogroll
+* yaml linter (on `_data`)
+* yaml linter on front matter?!
 * make it faster - pagespeed 78 :-( 
 * Write excerpts for every post and show them (using `summary`).
 * Better pagelist on about page and "quality" tags for "best posts" on home.
