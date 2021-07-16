@@ -8,6 +8,8 @@ What fields do I want? Tags? Summary? Do I really want to do this on my Thursday
 Also, something like:
 If you like what I'm up to you should check out my friends. These are people with an active and ongoing presence.
 
+Can I link this to RSS someway?
+
 <ul>
 {% for blog in site.data.blogroll %}
 <li>
