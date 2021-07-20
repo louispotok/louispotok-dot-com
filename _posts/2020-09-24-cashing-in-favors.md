@@ -2,7 +2,7 @@
 nb_migrate: dirty
 ---
 
-The last few weeks I've been back in the Bay Area after ~9 months away. In this time I've done a lot of crashing on my friends' couches or spare rooms. Partly this was about saving money, but I could have found a reasonably-priced subset much sooner. Why didn't I?
+The last few weeks I've been back in the Bay Area after ~9 months away. In this time I've done a lot of crashing on my friends' couches or spare rooms. Partly this was about saving money, but I could have found a reasonably-priced sublet much sooner. Why didn't I?
 
 Community is about gifts. (This is a preview to my review of Sacred Economics.) The bigger the gift, the closer the relationship. By asking for favors, especially fairly major ones, I'm re-establishing my place in the community, and reassuring myself that I'm part of one. If I had met my housing needs through the market, I don't think I would have felt as re-connected to my friends here as I have.
 

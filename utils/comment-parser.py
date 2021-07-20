@@ -3,6 +3,9 @@ import csv
 import os
 import yaml
 
+"""
+Parses comments, as exported from a wordpress database, into the YML format this repo expects.
+"""
 @click.command()
 @click.argument("filename")
 def main(filename):
