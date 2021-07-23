@@ -28,8 +28,10 @@ TODO:
 * twitter embed? see /whiteness
 * file hosting outside git?
 * sidenotes: https://www.gwern.net/Sidenotes
+* What about a "bounties" page like Eli Tyre?
 
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`
 * Used jquery-ui custom downloader for accordion.
+
 
