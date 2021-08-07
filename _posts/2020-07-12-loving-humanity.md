@@ -36,5 +36,9 @@ An interesting set of data points[^thanks] comes from Scott Alexander's [gonzo j
 <footer>@slatestarcodex<cite> <a href="https://web.archive.org/web/20200223083014/https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/">https://web.archive.org/web/20200223083014/https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+"Aaron Pitkin", an animal rights activist profiled in Larissa MacFarquhar's [Strangers Drowning](https://amzn.to/3jveUNp), had a similar episode:
+> Once, in college, he was rushing to get to a final exam in a course he really needed to get into graduate school, and the final exam was a large part of the grade. But it was raining, and worms were coming up out of the grass and wriggling onto the paths. He knew that if he didn’t pick them up someone would step on them and crush them to death. So he stopped and picked up the worms and put them back on the grass, and he was late.
+
+
 [^thanks]: Thanks to Gavin Leech for [reminding me](https://twitter.com/gleech8/status/1282434684354539521) where I had read about this. The twitter hive mind is amazing.
 
