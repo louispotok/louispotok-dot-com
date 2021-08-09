@@ -4,10 +4,9 @@ n_posts: 5
 list_title: Recent Posts
 ---
 
-Hi, welcome to Capillary Action.
+Hi, I'm Louis. I'm the CEO and founder of [Recoolit](https://www.recoolit.com/).
 
-I'm Louis Potok. 
-Right now, the main thing to do here is read my [blog]({{site.baseurl}}{% link pages/blog.md %}). 
+The main thing to do here is read my [blog]({{site.baseurl}}{% link pages/blog.md %}). 
 You can also read more [about me]({{site.baseurl}}{% link pages/about.md %}) or see what I'm up to [now]({{site.baseurl}}{% link pages/now.md %}).
 
 <div class="accordion">
