@@ -34,7 +34,8 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.0/moment.min.js"></script>
 <script>
 (function () {
-	var url = 'https://api.github.com/repos/{{ site.github_username }}/louispotok-dot-com/commits?path={{ page.path }}',
+                // properly this should call {{site.github_username}} but I don't want it in the footer.
+	var url = 'https://api.github.com/repos/louispotok/louispotok-dot-com/commits?path={{ page.path }}',
 		xhr = new XMLHttpRequest();
 
 	// from http://stackoverflow.com/questions/1219860/html-encoding-in-javascript-jquery
