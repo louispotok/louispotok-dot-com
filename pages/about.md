@@ -8,7 +8,7 @@ header: true
 visible: true
 summary: Basic overview of who I am and what this site is all about.
 ---
-I'm Louis. This site is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}). Some basic stats about the blog are available on [the stats page]({% link pages/stats.md %}).
+I'm Louis. This website is mostly a [blog]({{site.baseurl}}{% link pages/blog.md %}). Some basic stats about the blog are available on [the stats page]({% link pages/stats.md %}).
 
 You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok) (DMs open!). I love getting messages from friendly strangers, so don't be shy. Feel free to:
 * Tell me if you had a strong reaction, positive or negative, to something I wrote.
