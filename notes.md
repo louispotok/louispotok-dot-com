@@ -28,4 +28,5 @@ TODO:
 Notes:
 * where is the theme to customize? Run `bundle info {themename}`
 * Used jquery-ui custom downloader for accordion.
+* add Eugene Kim to something
 

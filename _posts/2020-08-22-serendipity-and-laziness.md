@@ -33,15 +33,15 @@ This isn't always wrong. It is often a good long-term strategy to set up your en
 
 But I claim is that this often is a failure mode. The full search is difficult. Executing it well is time-consuming, and if you do it right you may come to realize that your options are worse than you thought. The serendipity mindset is a defensive rationalization that makes you feel good about having found something worse. After all, if you rely on the universe to make this decision for you, you can't be blamed. And it sets up the wrong comparison: you shouldn't be evaluating candidates against the status quo but against the other candidates you could have found with a modicum of effort.
 
-When you go for serendipity you probably expose more variance, but I claim it's mostly on the negative side. You might encounter something fantastic that would have escaped your search criteria -- a job posting that would have been filtered out, but that when you see it turns out to be perfect. But the full search is in some sense efficient, in that if you execute it well you end up with the best candidate among the subset who will have you. But with serendipity you end up with a randomly chosen candidate from that same subset.
+When you go for serendipity you probably expose yourself to more variance, but it's mostly on the negative side. You might encounter something fantastic that would have escaped your search criteria -- a job posting that would have been filtered out, but that when you see it turns out to be perfect. But this is mostly cope. If you execute the full search well enough you might end up with the best candidate among the subset who will have you. But with serendipity you end up with a randomly chosen candidate from that same subset.
 
-One other consideration worth noting: if you don't really know your criteria, looking at lots of candidates chosen at "random" is a good way to develop your sense of what you value.
+One consideration on the other side of the ledger: if you don't really know your criteria, looking at lots of candidates chosen at "random" is a good way to develop your sense of what you value.
 
 We could formalize this problem mathematically, with parameters expressing your search costs, the expected variance in candidates, the efficiency of selection (do people know what they prefer), the heterogeneity of both sides of the market (in terms of attributes and preferences). It begins to look like an [Al-Roth-shaped](https://amzn.to/34ncDxT) problem.
 
 ## Just keep it in mind
 
-But as a heuristic I think it's valuable. When you find serendipity, you should ask whether you're falling into this trap. 
+As a heuristic I think this is valuable. When you find serendipity, you should ask whether you're falling into this trap. 
 
 I think of this as a common failure mode for myself, though I've definitely seen both sides:
 * My job at ideas42 was serendipity -- I saw the posting on Twitter, but it was indeed exactly what I had been looking for, the perfect job for me at that time.
