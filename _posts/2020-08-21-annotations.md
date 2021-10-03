@@ -4,7 +4,8 @@ nb_migrate: dirty
 
 How does knowledge progress? What is our model for how different thinkers relate to each others work?
 
-<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">In short I guess what i want is for science to be more like the talmud.</p>&mdash; small needs infinite desires (@louispotok) <a href="https://twitter.com/louispotok/status/1178065688503570432?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">In short I guess what i want is for science to be more like the talmud.</p>&mdash; small needs infinite desires (@louispotok) <a href="https://twitter.com/louispotok/status/1178065688503570432?ref_src=twsrc%5Etfw">September 28, 2019</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The Paper DAG
 
@@ -32,5 +33,5 @@ The potential applications to digital media are staggering, but no one has made 
 
 ## Others
 
-Two other mechanisms for knowledge reference and arrangement are transclusion and bidirectional links, and in fact these are not separate categories so much as conceptual clusters in implmeentation space. Many systems could be considered a blend of all these. Yet another model is reddit-style comment trees, in which a conversation can splinter off from its parents but can only refer to one parent.
+Two other mechanisms for knowledge reference and arrangement are transclusion and bidirectional links, and in fact these are not separate categories so much as conceptual clusters in implmentation space. Think Notion, or Roam. Many systems could be considered a blend of all these. Yet another model is reddit-style comment trees, in which a conversation can splinter off from its parents but can only refer to one parent.
 
