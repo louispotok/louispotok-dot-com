@@ -17,7 +17,7 @@ If you want to follow along, I intend to send out email updates through [this li
 
 ## Living in Jakarta
 
-I moved to Jakarta to work on Recoolit in May 2021. I hope to be here 1-3 years and I'm looking to make friends. If you live here, have friends here, or are just passing through, please [get in touch]({{site.baseurl}}{% link pages/about.md %}).
+I moved to Jakarta to work on Recoolit in May 2021. I hope to be here 1-3 years and I'm looking to make friends. If you live here, have friends here, or are just passing through, please [get in touch]({{site.baseurl}}#contact-me).
 
 ## Misc
 
