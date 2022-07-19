@@ -6,6 +6,10 @@ list_title: Recent Posts
 
 Hi, I'm Louis. I'm the CEO and founder of [Recoolit](https://www.recoolit.com/). We are trying to prevent 1 billion tons of CO2e emissions from superpotent refrigerants, starting in Indonesia.
 
+To learn more:
+* [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind), a manifesto
+* [A podcast I did](https://carbotnic.com/recoolit) with James McWalter at Carbotnic.
+
 In the past I:
 * lived in San Francisco, working at early-stage startups applying machine learning to challenges in healthcare and financial inclusion
 * used behavioral economics to improve government and NGO policies and programs
