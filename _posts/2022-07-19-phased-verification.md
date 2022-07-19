@@ -6,7 +6,7 @@ summary: The voluntary carbon market has a problem with supporting innovation. H
 
 This seems like a fairly simple idea but I haven't seen it elsewhere.
 
-The problem: it's hard for a company like [Recoolit](https://www.recoolit.com) to *get started* selling voluntary carbon credits.There is a high overhead in cost and expertise to getting certified and verified verification before you sell any credits at all.
+The problem: it's hard for a company like [Recoolit](https://www.recoolit.com) to *get started* selling voluntary carbon credits.There is a high overhead in cost and expertise to getting certified and verified before you sell any credits at all.
 
 This creates a chicken and egg problem, especially for newer projects that might require a methodology amendment or a new methodology. If you are doing something established, there is a fairly robust ecosystem for prefinancing your project. But if you're doing something new, you have to take on much more expensive equity financing, with little proof on the demand side, since most buyers only want certified credits.
 
