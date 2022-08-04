@@ -10,7 +10,7 @@ The setup:
 2. The domain is managed with Google Domains
 3. I am running the Matomo self-hosted version on a digital ocean droplet.
 
-The [official docs](https://matomo.org/docs/installation/) are okay but contain a massive gap. Where it says "Open your web browser and navigate to the URL to which you uploaded Matomo" -- this was not at all trivial for me. I used these two tutorials ([1](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-18-04-apache-nginx) and [2](https://artofadventuring.com/install-matomo-piwik-digitalocean/)) heavily. Also, I probably forgot some steps. So if something is missing, compare to these tutorials and fill in the steps.
+The [official docs](https://matomo.org/docs/installation/) are okay but contain a massive gap. Where it says "Open your web browser and navigate to the URL to which you uploaded Matomo" -- this was not at all trivial for me. I used these two tutorials ([1](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-18-04-apache-nginx) and [2](https://web.archive.org/web/20210506105521/https://artofadventuring.com/install-matomo-piwik-digitalocean/)) heavily. Also, I probably forgot some steps. So if something is missing, compare to these tutorials and fill in the steps.
 
 # Configure your subdomain
 As far as I understand, you need your matomo server running on a named domain rather than just your server IP address to do this, because 
