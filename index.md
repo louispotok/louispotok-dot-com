@@ -9,6 +9,7 @@ Hi, I'm Louis. I'm the CEO and founder of [Recoolit](https://www.recoolit.com/).
 To learn more:
 * [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind), a manifesto
 * [A podcast I did](https://carbotnic.com/recoolit) with James McWalter at Carbotnic.
+* [A podcast I did](https://www.indo-tekno.com/podcast/episode/7928c0fe/defusing-a-climate-bomb-louis-potok-of-recoolit) with Alan Hellawell at Indo Tekno.
 
 In the past I:
 * lived in San Francisco, working at early-stage startups applying machine learning to challenges in healthcare and financial inclusion
