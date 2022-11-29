@@ -111,4 +111,4 @@ Finally, copy the tracking code into Webflow's Custom Code tab, making sure that
 ```javascript
     var u="//analytics.subdomain.com/";
 ```
-Fire up your site with dev tools open, make sure the matomo.js call resolves, and then go see your first pageview in your dashboard!
+Fire up your site with dev tools open, make sure the matomo.js call resolves, and then go see your first pageview in your dashboard! (Note: if you have the do-not-track ("dnt") header set, this won't work.)
