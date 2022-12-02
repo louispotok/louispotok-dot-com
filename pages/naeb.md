@@ -27,13 +27,13 @@ Native American peoples uncovered thousands of such uses, and once lost these ar
 
 Starting in the 1970's, Daniel Moerman and collaborators began compiling these records, and ended up creating a database with information from 206 distinct sources. The project was funded by the National Endowment for the Humanities, the National Science Foundation, and the University of Michigan-Dearborn. This database is **magnificent**.
 
-Professor Moerman publishes a web version of the database [here](http://naeb.brit.org/), a great start for others to build on. However, it does not provide full download or unlimited query access. I asked Professor Moerman if he would be willing to publish the full dataset. But he believes that his interest in research exclusivity and control outweighs the public interest in having this data accessible and duplicated. I disagree.
+Professor Moerman publishes a web version of the database [here](http://naeb.brit.org/), a great start for others to build on. However, it does not provide full download or unlimited query access.
 
 So I scraped the NAEB database and [published it](https://naeb.louispotok.com/) using the wonderful [Datasette](https://datasette.io/) tool.
 
 ## Why I did this
 
-This data should be open. It was publicly funded, Moerman is in his 80's, it belongs to the people, and it represents too much human labor to risk its disappearance.
+This data should be open. It was publicly funded years ago, it belongs to the people, and it represents too much human labor to risk its disappearance.
 
 My first full-time job out of college was at the Center for Population Economics, led by Economics Nobel Laureate Bob Fogel. Fogel was at the time in his 90's, and the CPE had been around for decades, performing distinctive research in economic history. [^heros] The dataset they gathered was unique and highly valuable: longitudinal health and economic records for every soldier who fought in the Union Army, the earliest such dataset in existence. Union Army veterans were eligible for pensions, but were required to appear before a board of doctors every few years in order to assess their physical condition and set the appropriate amount of their pension. We tracked these men across their life cycle, as they changed jobs, moved across the country, married and had children, got sick, and eventually died. We were able to link those records to census data, to block-level disease reporting in American cities, to the introduction of sewers and roads. 
 
