@@ -2,7 +2,6 @@
 title: NAEB
 layout: page
 permalink: /naeb/
-header: true
 visible: true
 summary: Unauthorized mirror of the Native American Ethnobotany Database.
 ---

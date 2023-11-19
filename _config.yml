@@ -22,9 +22,9 @@ title: Capillary Action
 email: louispotok@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://louispotok.com
-description: Homepage for Louis Potok.
+# description: Homepage for Louis Potok.
 twitter_username: louispotok 
-# github_username:  louispotok
+github_username:  louispotok
 show_excerpts: true
 
 # Build settings
