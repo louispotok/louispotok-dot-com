@@ -13,10 +13,13 @@ In the past I:
 * used [behavioral economics](https://ideas42.org) to improve government and NGO policies and programs.
 * studied economics at the University of Chicago.
 
-You can read what I'm up to [now]({{site.baseurl}}{% link pages/now.md %}), including questions I've been thinking about. You can also check out my [blog archive]({{site.baseurl}}{% link pages/blog.md %}) or take a look at:
+This site contains:
+* What I'm up to [now]({{site.baseurl}}{% link pages/now.md %})
+* [Questions]({{site.baseurl}}{% link pages/questions.md %}) I've been thinking about
+* My [blog]({{site.baseurl}}{% link pages/blog.md %}), 10 years and counting.
 * An [unauthorized mirror of the NAEB database]({{site.baseurl}}{% link pages/naeb.md %})
-* My thoughts on [Eternal Websites]({{site.baseurl}}{% link pages/websites.md %}).
-* The [colophon]({{site.baseurl}}{% link pages/colophon.md %}) for this site.
+* My thoughts on [Eternal Websites]({{site.baseurl}}{% link pages/websites.md %})
+* The [colophon]({{site.baseurl}}{% link pages/colophon.md %}) for this site
 
 # Contact Me
 
