@@ -9,19 +9,20 @@ Hi, I'm Louis.
 I'm the CEO and cofounder (with Ning Jeng) of [Recoolit](https://www.recoolit.com/). We are making cooling sustainable, with an emphasis on the management of superpotent refrigerant gas.
 
 In the past I:
-* lived in San Francisco, working at early-stage startups applying machine learning to challenges in healthcare and financial inclusion.
-* used behavioral economics to improve government and NGO policies and programs.
+* worked at early-stage startups applying machine learning to challenges in [healthcare](https://agathos.io) and [financial inclusion](https://trueaccord.com).
+* used [behavioral economics](https://ideas42.org) to improve government and NGO policies and programs.
 * studied economics at the University of Chicago.
 
-On this site you can see what I'm up to [now]({{site.baseurl}}{% link pages/now.md %}), including questions I've been thinking about. You can also check out my [blog archive]({{site.baseurl}}{% link pages/blog.md %}).
-Some other pages you might like to read:
-* My [unauthorized mirror of the NAEB database]({{site.baseurl}}{% link pages/naeb.md %})
+You can read what I'm up to [now]({{site.baseurl}}{% link pages/now.md %}), including questions I've been thinking about. You can also check out my [blog archive]({{site.baseurl}}{% link pages/blog.md %}) or take a look at:
+* An [unauthorized mirror of the NAEB database]({{site.baseurl}}{% link pages/naeb.md %})
 * My thoughts on [Eternal Websites]({{site.baseurl}}{% link pages/websites.md %}).
-* The [colophon]({{site.baseurl}}{% link pages/colophon.md %}) for this site
+* The [colophon]({{site.baseurl}}{% link pages/colophon.md %}) for this site.
 
 # Contact Me
 
-You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok). (My Twitter DMs are open, although I believe Twitter imposed restrictions on DMs in late 2023.) I love getting messages from friendly strangers, so don't be shy. Feel free to:
+You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok). My Twitter DMs are open, although I believe Twitter imposed restrictions on DMs in late 2023.
+
+I love getting messages from friendly strangers, so don't be shy. Feel free to:
 * Tell me if you had a strong reaction, positive or negative, to something I wrote.
 * Ask me a favor -- I'll gladly help if I can.
 * Tell me what you're working on and why you're passionate about it.
