@@ -4,4 +4,5 @@ todo:
 - [ ] put colophon link in the footer
 - [ ] remove "last 5 posts" from home
 - [ ] add list of "favorites" to home
+- [ ] remove "footer" from bookwyrm citations
 - [ ] explore other themes
