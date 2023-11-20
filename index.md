@@ -4,7 +4,7 @@ n_posts: 5
 list_title: Recent Posts
 ---
 
-Hi, I'm Louis.
+Hi, I'm Louis. Feel free to [say hi]({{site.baseurl}}{% link pages/contact.md %})!
 
 I'm the CEO and cofounder (with Ning Jeng) of [Recoolit](https://www.recoolit.com/). We are making cooling sustainable, with an emphasis on the management of superpotent refrigerant gas.
 
@@ -20,17 +20,6 @@ This site contains:
 * An [unauthorized mirror of the NAEB database]({{site.baseurl}}{% link pages/naeb.md %})
 * My thoughts on [Eternal Websites]({{site.baseurl}}{% link pages/websites.md %})
 * The [colophon]({{site.baseurl}}{% link pages/colophon.md %}) for this site
-
-# Contact Me
-
-You can reach me by [email](mailto:{{site.email}}) or follow me on [Twitter](https://twitter.com/louispotok). My Twitter DMs are open, although I believe Twitter imposed restrictions on DMs in late 2023.
-
-I love getting messages from friendly strangers, so don't be shy. Feel free to:
-* Tell me if you had a strong reaction, positive or negative, to something I wrote.
-* Ask me a favor -- I'll gladly help if I can.
-* Tell me what you're working on and why you're passionate about it.
-* Ask for advice.
-* Send or request reading suggestions.
 
 <div class="accordion"> 
 <h3>Bugs?</h3>
