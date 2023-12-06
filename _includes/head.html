@@ -6,4 +6,7 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+  {%- if jekyll.environment == "production" -%}
+  <script data-goatcounter="https://analytics.louispotok.com/count" async src="//analytics.louispotok.com/count.js"></script>
+  {%- endif -%}
 </head>
