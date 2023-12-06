@@ -5,6 +5,8 @@ summary: Nitty-gritty instructions for setting up self-hosted website analytics 
 
 I recently set up Matomo to track visits to recoolit.com. Here's how I did it.
 
+EDIT 2023-12-06: I recently switched to self-hosted [Goatcounter](https://github.com/arp242/goatcounter) instead, mostly following [this guide](https://rgth.co/blog/replacing-google-analytics-with-goatcounter/).
+
 The setup:
 1. Recoolit.com is hosted by Webflow
 2. The domain is managed with Google Domains
