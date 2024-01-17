@@ -37,10 +37,13 @@ Some questions I've been thinking about recently. [Get in touch]({{site.baseurl}
 * How can I spend more time with the children of my family and friends, and be a positive presence in their lives?
 * How can I raise my own (hypothetical future) children in a way that is consonant with my values and desires?
 
-### Nutrition and fitness
+### Health
 * What has caused the immense increase in obesity? To what extent is the [Chemical Hunger hypothesis](http://achemicalhunger.com/) true? (see criticism [here](https://www.lesswrong.com/posts/7iAABhWpcGeP5e6SB/it-s-probably-not-lithium) and [here](https://someflow.substack.com/p/criticisms-of-a-chemical-hunger)).
 * Do various highly restrictive diets ([potatos](https://slimemoldtimemold.com/2023/01/26/smtm-potato-diet-community-trial-6-month-followup/), [exfat 150](https://exfatloss.com/p/losing-43lbs-in-144-days-on-ex150-diet), [carnivore](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended), etc) actually work long-term for weight loss and overall health for most people?
 * Why is there so much heterogeneity in which diets work well? Some theories: genetics, unobserved environmental variables (eg microbiome or chemical pollutant exposure), rampant lying or bad tracking...
+* Sheer physical endurance -- how many hours in a day can you work on your main focus -- seems to be an important factor in success, at least in some fields. (Note the anecdotal correlation between business success and endurance recreation like marathon running and ironman competitions.) Is this genetic? Are there meaningful interventions?
+* Nicotine seems to be a powerful nootropic with limited side effects. Are there differences in its effects based on delivery mechanism?
+* Why is looking at fractal patterns (trees, aerial views of river deltas) so pleasing?
 
 ### Scifi, now!
 * Will technology extend human lifespans substantially beyond 100 years? If so will this come from a single breakthough or a layering of many efforts? Will it happen in my lifetime?
